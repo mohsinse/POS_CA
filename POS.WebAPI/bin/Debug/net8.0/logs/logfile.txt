@@ -1,0 +1,1285 @@
+2024-07-29 16:31:02.5599 DEBUG init main
+2024-07-29 16:31:03.0400 ERROR System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: POS.Services.ProductServices.ProductManagementService Lifetime: Scoped ImplementationType: POS.Services.ProductServices.ProductManagementService': Unable to resolve service for type 'POS.Repositories.ProductRepository.IProductRepository' while attempting to activate 'POS.Services.ProductServices.ProductManagementService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.UserServices.UserService Lifetime: Scoped ImplementationType: POS.Services.UserServices.UserService': Unable to resolve service for type 'POS.Repositories.UserRepository.IUserRepository' while attempting to activate 'POS.Services.UserServices.UserService'.)
+2024-07-29 16:36:36.8361 DEBUG init main
+2024-07-29 16:36:37.4450 ERROR System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: POS.Services.ProductServices.ProductManagementService Lifetime: Scoped ImplementationType: POS.Services.ProductServices.ProductManagementService': Unable to resolve service for type 'POS.Repositories.ProductRepository.IProductRepository' while attempting to activate 'POS.Services.ProductServices.ProductManagementService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.UserServices.UserService Lifetime: Scoped ImplementationType: POS.Services.UserServices.UserService': Unable to resolve service for type 'POS.Repositories.UserRepository.IUserRepository' while attempting to activate 'POS.Services.UserServices.UserService'.)
+2024-07-29 16:37:39.3100 DEBUG init main
+2024-07-29 16:37:39.8563 ERROR System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: POS.Services.ProductServices.ProductManagementService Lifetime: Scoped ImplementationType: POS.Services.ProductServices.ProductManagementService': Unable to resolve service for type 'POS.Repositories.ProductRepository.IProductRepository' while attempting to activate 'POS.Services.ProductServices.ProductManagementService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.UserServices.UserService Lifetime: Scoped ImplementationType: POS.Services.UserServices.UserService': Unable to resolve service for type 'POS.Repositories.UserRepository.IUserRepository' while attempting to activate 'POS.Services.UserServices.UserService'.)
+2024-07-29 16:38:02.4431 DEBUG init main
+2024-07-29 16:38:02.6107 ERROR System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: POS.Services.ProductServices.ProductManagementService Lifetime: Scoped ImplementationType: POS.Services.ProductServices.ProductManagementService': Unable to resolve service for type 'POS.Repositories.ProductRepository.IProductRepository' while attempting to activate 'POS.Services.ProductServices.ProductManagementService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.UserServices.UserService Lifetime: Scoped ImplementationType: POS.Services.UserServices.UserService': Unable to resolve service for type 'POS.Repositories.UserRepository.IUserRepository' while attempting to activate 'POS.Services.UserServices.UserService'.)
+2024-07-29 17:43:22.5133 DEBUG init main
+2024-07-29 17:43:22.9064 ERROR System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: POS.Services.ProductServices.ProductManagementService Lifetime: Scoped ImplementationType: POS.Services.ProductServices.ProductManagementService': Unable to resolve service for type 'POS.Repositories.ProductRepository.IProductRepository' while attempting to activate 'POS.Services.ProductServices.ProductManagementService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.UserServices.UserService Lifetime: Scoped ImplementationType: POS.Services.UserServices.UserService': Unable to resolve service for type 'POS.Repositories.UserRepository.IUserRepository' while attempting to activate 'POS.Services.UserServices.UserService'.)
+2024-07-29 17:43:47.2315 DEBUG init main
+2024-07-29 17:43:47.5736 ERROR System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: POS.Services.ProductServices.ProductManagementService Lifetime: Scoped ImplementationType: POS.Services.ProductServices.ProductManagementService': Unable to resolve service for type 'POS.Repositories.ProductRepository.IProductRepository' while attempting to activate 'POS.Services.ProductServices.ProductManagementService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.UserServices.UserService Lifetime: Scoped ImplementationType: POS.Services.UserServices.UserService': Unable to resolve service for type 'POS.Repositories.UserRepository.IUserRepository' while attempting to activate 'POS.Services.UserServices.UserService'.)
+2024-07-29 17:47:56.3364 DEBUG init main
+2024-07-29 17:47:56.4057 ERROR System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: POS.Services.ProductServices.ProductManagementService Lifetime: Scoped ImplementationType: POS.Services.ProductServices.ProductManagementService': Unable to resolve service for type 'POS.Repositories.ProductRepository.IProductRepository' while attempting to activate 'POS.Services.ProductServices.ProductManagementService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.UserServices.UserService Lifetime: Scoped ImplementationType: POS.Services.UserServices.UserService': Unable to resolve service for type 'POS.Repositories.UserRepository.IUserRepository' while attempting to activate 'POS.Services.UserServices.UserService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.CategoryServices.CategoryService Lifetime: Scoped ImplementationType: POS.Services.CategoryServices.CategoryService': Unable to resolve service for type 'POS.Repositories.CategoryRepository.ICategoryRepository' while attempting to activate 'POS.Services.CategoryServices.CategoryService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.SaleServices.SaleService Lifetime: Scoped ImplementationType: POS.Services.SaleServices.SaleService': Unable to resolve service for type 'POS.Services.SaleServices.ISaleService' while attempting to activate 'POS.Services.SaleServices.SaleService'.)
+2024-07-29 17:48:02.1618 DEBUG init main
+2024-07-29 17:48:02.5149 ERROR System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: POS.Services.ProductServices.ProductManagementService Lifetime: Scoped ImplementationType: POS.Services.ProductServices.ProductManagementService': Unable to resolve service for type 'POS.Repositories.ProductRepository.IProductRepository' while attempting to activate 'POS.Services.ProductServices.ProductManagementService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.UserServices.UserService Lifetime: Scoped ImplementationType: POS.Services.UserServices.UserService': Unable to resolve service for type 'POS.Repositories.UserRepository.IUserRepository' while attempting to activate 'POS.Services.UserServices.UserService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.CategoryServices.CategoryService Lifetime: Scoped ImplementationType: POS.Services.CategoryServices.CategoryService': Unable to resolve service for type 'POS.Repositories.CategoryRepository.ICategoryRepository' while attempting to activate 'POS.Services.CategoryServices.CategoryService'.) (Error while validating the service descriptor 'ServiceType: POS.Services.SaleServices.SaleService Lifetime: Scoped ImplementationType: POS.Services.SaleServices.SaleService': Unable to resolve service for type 'POS.Services.SaleServices.ISaleService' while attempting to activate 'POS.Services.SaleServices.SaleService'.)
+2024-07-29 17:52:21.8003 DEBUG init main
+2024-07-29 17:52:21.8625 ERROR System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: POS.Services.SaleServices.ISaleService Lifetime: Scoped ImplementationType: POS.Services.SaleServices.SaleService': A circular dependency was detected for the service of type 'POS.Services.SaleServices.ISaleService'.
+POS.Services.SaleServices.ISaleService(POS.Services.SaleServices.SaleService) -> POS.Services.SaleServices.ISaleService
+2024-07-29 17:59:06.0970 DEBUG init main
+2024-07-29 17:59:06.1845 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-07-29 17:59:06.2076 DEBUG Hosting starting
+2024-07-29 17:59:06.2159 INFO User profile is available. Using 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-29 17:59:06.2159 DEBUG Reading data from file 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys\key-729a7deb-0149-47d0-8c3e-c36066acf27f.xml'.
+2024-07-29 17:59:06.2159 DEBUG Found key {729a7deb-0149-47d0-8c3e-c36066acf27f}.
+2024-07-29 17:59:06.2290 DEBUG Considering key {729a7deb-0149-47d0-8c3e-c36066acf27f} with expiration date 2024-10-21 14:45:57Z as default key.
+2024-07-29 17:59:06.2290 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 17:59:06.2290 DEBUG Decrypting secret element using Windows DPAPI.
+2024-07-29 17:59:06.2290 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 17:59:06.2290 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2024-07-29 17:59:06.2290 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2024-07-29 17:59:06.2290 DEBUG Using key {729a7deb-0149-47d0-8c3e-c36066acf27f} as the default key.
+2024-07-29 17:59:06.2290 DEBUG Key ring with default key {729a7deb-0149-47d0-8c3e-c36066acf27f} was loaded during application startup.
+2024-07-29 17:59:06.2615 INFO Now listening on: http://localhost:5107
+2024-07-29 17:59:06.2615 DEBUG Loaded hosting startup assembly POS.WebAPI
+2024-07-29 17:59:06.2615 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:59:06.2615 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:59:06.2615 INFO Application started. Press Ctrl+C to shut down.
+2024-07-29 17:59:06.2615 INFO Hosting environment: Development
+2024-07-29 17:59:06.2615 INFO Content root path: D:\Visual Studio Projects\POS AL\POS.WebAPI
+2024-07-29 17:59:06.2615 DEBUG Hosting started
+2024-07-29 17:59:06.5319 DEBUG Connection id "0HN5FPOTDLOH8" accepted.
+2024-07-29 17:59:06.5319 DEBUG Connection id "0HN5FPOTDLOH9" accepted.
+2024-07-29 17:59:06.5319 DEBUG Connection id "0HN5FPOTDLOH9" started.
+2024-07-29 17:59:06.5319 DEBUG Connection id "0HN5FPOTDLOH8" started.
+2024-07-29 17:59:06.5439 DEBUG Connection id "0HN5FPOTDLOH9" received FIN.
+2024-07-29 17:59:06.5439 DEBUG Connection id "0HN5FPOTDLOH8" received FIN.
+2024-07-29 17:59:06.5439 DEBUG Connection id "0HN5FPOTDLOH8" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:59:06.5439 DEBUG Connection id "0HN5FPOTDLOH9" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:59:06.5439 DEBUG Connection id "0HN5FPOTDLOH8" disconnecting.
+2024-07-29 17:59:06.5439 DEBUG Connection id "0HN5FPOTDLOH9" disconnecting.
+2024-07-29 17:59:06.5439 DEBUG Connection id "0HN5FPOTDLOH8" stopped.
+2024-07-29 17:59:06.5439 DEBUG Connection id "0HN5FPOTDLOH9" stopped.
+2024-07-29 17:59:06.5750 DEBUG Connection id "0HN5FPOTDLOHA" accepted.
+2024-07-29 17:59:06.5750 DEBUG Connection id "0HN5FPOTDLOHA" started.
+2024-07-29 17:59:06.6075 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger - - -
+2024-07-29 17:59:06.6075 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 17:59:06.6255 DEBUG No candidates found for the request path '/swagger'
+2024-07-29 17:59:06.6255 DEBUG Request did not match any endpoints
+2024-07-29 17:59:06.6359 DEBUG Connection id "0HN5FPOTDLOHB" accepted.
+2024-07-29 17:59:06.6359 DEBUG Connection id "0HN5FPOTDLOHB" started.
+2024-07-29 17:59:06.6359 DEBUG Connection id "0HN5FPOTDLOHA" completed keep alive response.
+2024-07-29 17:59:06.6359 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger - 301 0 - 36.5062ms
+2024-07-29 17:59:06.6359 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/index.html - - -
+2024-07-29 17:59:06.6359 DEBUG No candidates found for the request path '/swagger/index.html'
+2024-07-29 17:59:06.6359 DEBUG Request did not match any endpoints
+2024-07-29 17:59:06.6833 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-07-29 17:59:06.6833 DEBUG Response markup was updated to include browser refresh script injection.
+2024-07-29 17:59:06.6833 DEBUG Connection id "0HN5FPOTDLOHA" completed keep alive response.
+2024-07-29 17:59:06.6833 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/index.html - 200 - text/html;charset=utf-8 43.3060ms
+2024-07-29 17:59:06.6833 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/swagger-ui.css - - -
+2024-07-29 17:59:06.6833 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/swagger-ui-bundle.js - - -
+2024-07-29 17:59:06.6833 DEBUG No candidates found for the request path '/swagger/swagger-ui.css'
+2024-07-29 17:59:06.6833 DEBUG No candidates found for the request path '/swagger/swagger-ui-bundle.js'
+2024-07-29 17:59:06.6833 DEBUG Request did not match any endpoints
+2024-07-29 17:59:06.6833 DEBUG Connection id "0HN5FPOTDLOHC" accepted.
+2024-07-29 17:59:06.6833 DEBUG Request did not match any endpoints
+2024-07-29 17:59:06.6833 DEBUG Connection id "0HN5FPOTDLOHC" started.
+2024-07-29 17:59:06.6833 DEBUG Connection id "0HN5FPOTDLOHD" accepted.
+2024-07-29 17:59:06.6833 DEBUG Connection id "0HN5FPOTDLOHD" started.
+2024-07-29 17:59:06.6833 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/swagger-ui-standalone-preset.js - - -
+2024-07-29 17:59:06.6833 INFO Request starting HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - - -
+2024-07-29 17:59:06.6833 DEBUG No candidates found for the request path '/swagger/swagger-ui-standalone-preset.js'
+2024-07-29 17:59:06.6833 DEBUG Request did not match any endpoints
+2024-07-29 17:59:06.6833 DEBUG Connection id "0HN5FPOTDLOHD" completed keep alive response.
+2024-07-29 17:59:06.6833 INFO Request finished HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript;+charset=utf-8 2.3271ms
+2024-07-29 17:59:06.7098 INFO Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-07-29 17:59:06.7098 INFO Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-07-29 17:59:06.7127 DEBUG Connection id "0HN5FPOTDLOHC" completed keep alive response.
+2024-07-29 17:59:06.7127 INFO Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-07-29 17:59:06.7127 DEBUG Connection id "0HN5FPOTDLOHB" completed keep alive response.
+2024-07-29 17:59:06.7127 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 21.1635ms
+2024-07-29 17:59:06.7127 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 22.3795ms
+2024-07-29 17:59:06.7127 DEBUG Connection id "0HN5FPOTDLOHA" completed keep alive response.
+2024-07-29 17:59:06.7127 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/swagger-ui.css - 200 152034 text/css 23.3127ms
+2024-07-29 17:59:06.8868 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - - -
+2024-07-29 17:59:06.8868 DEBUG No candidates found for the request path '/swagger/v1/swagger.json'
+2024-07-29 17:59:06.8868 DEBUG Request did not match any endpoints
+2024-07-29 17:59:06.9020 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/favicon-32x32.png - - -
+2024-07-29 17:59:06.9020 DEBUG No candidates found for the request path '/swagger/favicon-32x32.png'
+2024-07-29 17:59:06.9020 DEBUG Request did not match any endpoints
+2024-07-29 17:59:06.9020 INFO Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-07-29 17:59:06.9020 DEBUG Connection id "0HN5FPOTDLOHC" completed keep alive response.
+2024-07-29 17:59:06.9020 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/favicon-32x32.png - 200 628 image/png 1.0633ms
+2024-07-29 17:59:06.9494 DEBUG Connection id "0HN5FPOTDLOHB" completed keep alive response.
+2024-07-29 17:59:06.9494 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 62.8547ms
+2024-07-29 17:59:17.6005 INFO Request starting HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - - -
+2024-07-29 17:59:17.6074 DEBUG 1 candidate(s) found for the request path '/api/Users/GetAllUsers'
+2024-07-29 17:59:17.6074 DEBUG Endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)' with route pattern 'api/Users/GetAllUsers' is valid for the request path '/api/Users/GetAllUsers'
+2024-07-29 17:59:17.6074 DEBUG Request matched endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 17:59:17.6074 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-07-29 17:59:17.6074 DEBUG Connection id "0HN5FPOTDLOHB" completed keep alive response.
+2024-07-29 17:59:17.6074 INFO Request finished HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - 401 - - 14.2644ms
+2024-07-29 17:59:44.3161 DEBUG Connection id "0HN5FPOTDLOHE" received FIN.
+2024-07-29 17:59:44.3161 DEBUG Connection id "0HN5FPOTDLOHE" accepted.
+2024-07-29 17:59:44.3161 DEBUG Connection id "0HN5FPOTDLOHF" accepted.
+2024-07-29 17:59:44.3161 DEBUG Connection id "0HN5FPOTDLOHE" started.
+2024-07-29 17:59:44.3161 DEBUG Connection id "0HN5FPOTDLOHE" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:59:44.3161 DEBUG Connection id "0HN5FPOTDLOHF" started.
+2024-07-29 17:59:44.3161 DEBUG Connection id "0HN5FPOTDLOHE" disconnecting.
+2024-07-29 17:59:44.3161 DEBUG Connection id "0HN5FPOTDLOHE" stopped.
+2024-07-29 17:59:44.3161 INFO Request starting HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - - -
+2024-07-29 17:59:44.3221 DEBUG 1 candidate(s) found for the request path '/api/Users/GetAllUsers'
+2024-07-29 17:59:44.3221 DEBUG Endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)' with route pattern 'api/Users/GetAllUsers' is valid for the request path '/api/Users/GetAllUsers'
+2024-07-29 17:59:44.3221 DEBUG Request matched endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 17:59:44.3221 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-07-29 17:59:44.4214 DEBUG Successfully validated the token.
+2024-07-29 17:59:44.4214 DEBUG AuthenticationScheme: Bearer was successfully authenticated.
+2024-07-29 17:59:44.4323 DEBUG Authorization was successful.
+2024-07-29 17:59:44.4323 INFO Executing endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 17:59:44.4656 INFO Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[POS.Model.User]]] GetUsers() on controller POS_System_API.Controllers.UsersController (POS.WebAPI).
+2024-07-29 17:59:44.4656 DEBUG Execution plan of authorization filters (in the following order): None
+2024-07-29 17:59:44.4656 DEBUG Execution plan of resource filters (in the following order): None
+2024-07-29 17:59:44.4656 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-07-29 17:59:44.4656 DEBUG Execution plan of exception filters (in the following order): None
+2024-07-29 17:59:44.4656 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-07-29 17:59:44.4656 DEBUG Executing controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 17:59:44.5829 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-29 17:59:45.1354 DEBUG The property 'Product.SaleId' was created in shadow state because there are no eligible CLR members with a matching name.
+2024-07-29 17:59:45.2000 DEBUG Entity Framework Core 8.0.7 initialized 'DBContext' using provider 'Microsoft.EntityFrameworkCore.InMemory:8.0.7' with options: StoreName=InMemoryDb 
+2024-07-29 17:59:45.2662 DEBUG 'DBContext' generated a value for the property 'User.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 17:59:45.3204 DEBUG Context 'DBContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 17:59:45.3260 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 17:59:45.3260 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 17:59:45.3449 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 17:59:45.3678 INFO Saved 1 entities to in-memory store.
+2024-07-29 17:59:45.3678 DEBUG An entity of type 'User' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 17:59:45.3862 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 17:59:45.3862 DEBUG 'DBContext' generated a value for the property 'User.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 17:59:45.3862 DEBUG Context 'DBContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 17:59:45.3862 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 17:59:45.3862 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 17:59:45.3862 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 17:59:45.4012 INFO Saved 1 entities to in-memory store.
+2024-07-29 17:59:45.4012 DEBUG An entity of type 'User' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 17:59:45.4012 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 17:59:45.4162 DEBUG 'DBContext' generated a value for the property 'Category.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 17:59:45.4162 DEBUG Context 'DBContext' started tracking 'Category' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 17:59:45.4162 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 17:59:45.4162 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 17:59:45.4162 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 17:59:45.4162 INFO Saved 1 entities to in-memory store.
+2024-07-29 17:59:45.4162 DEBUG An entity of type 'Category' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 17:59:45.4162 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 17:59:45.4315 DEBUG Executed controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 17:59:45.4315 INFO ----GetAllUsers Started------
+2024-07-29 17:59:45.4624 DEBUG Compiling query expression: 
+'DbSet<User>()'
+2024-07-29 17:59:45.6049 DEBUG Generated query execution expression: 
+'queryContext => new QueryingEnumerable<User>(
+    queryContext, 
+    InMemoryShapedQueryCompilingExpressionVisitor.Table(
+        queryContext: queryContext, 
+        entityType: EntityType: User)
+        .Select(valueBuffer => new ValueBuffer(new object[]
+        { 
+            (object)ExpressionExtensions.ValueBufferTryReadValue<int>(
+                valueBuffer: valueBuffer, 
+                index: 0, 
+                property: Property: User.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 1, 
+                property: Property: User.Email (string) Required), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 2, 
+                property: Property: User.Name (string) Required), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 3, 
+                property: Property: User.Password (string) Required), 
+            (object)ExpressionExtensions.ValueBufferTryReadValue<UserRole>(
+                valueBuffer: valueBuffer, 
+                index: 4, 
+                property: Property: User.UserRole (UserRole) Required) 
+        })), 
+    Func<QueryContext, ValueBuffer, User>, 
+    POS.Data.DBContext, 
+    False, 
+    True
+)'
+2024-07-29 17:59:45.6230 INFO ----GetAllUsers End------
+2024-07-29 17:59:45.6230 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-07-29 17:59:45.6230 DEBUG No information found on request to perform content negotiation.
+2024-07-29 17:59:45.6230 DEBUG Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-07-29 17:59:45.6230 DEBUG Attempting to select the first formatter in the output formatters list which can write the result.
+2024-07-29 17:59:45.6230 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-07-29 17:59:45.6230 INFO Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[POS.Model.User, POS.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-29 17:59:45.6667 INFO Executed action POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI) in 1186.3682ms
+2024-07-29 17:59:45.6667 INFO Executed endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 17:59:45.6667 DEBUG Connection id "0HN5FPOTDLOHF" completed keep alive response.
+2024-07-29 17:59:45.6667 DEBUG 'DBContext' disposed.
+2024-07-29 17:59:45.6667 INFO Request finished HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - 200 - application/json;+charset=utf-8 1350.8511ms
+2024-07-29 18:01:17.7279 DEBUG Connection id "0HN5FPOTDLOHA" disconnecting.
+2024-07-29 18:01:17.7279 DEBUG Connection id "0HN5FPOTDLOHA" stopped.
+2024-07-29 18:01:17.7279 DEBUG Connection id "0HN5FPOTDLOHC" disconnecting.
+2024-07-29 18:01:17.7279 DEBUG Connection id "0HN5FPOTDLOHC" stopped.
+2024-07-29 18:01:17.7279 DEBUG Connection id "0HN5FPOTDLOHA" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 18:01:17.7279 DEBUG Connection id "0HN5FPOTDLOHC" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 18:01:17.7279 DEBUG Connection id "0HN5FPOTDLOHD" disconnecting.
+2024-07-29 18:01:17.7279 DEBUG Connection id "0HN5FPOTDLOHD" stopped.
+2024-07-29 18:01:17.7279 DEBUG Connection id "0HN5FPOTDLOHD" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 18:01:28.8295 DEBUG Connection id "0HN5FPOTDLOHB" disconnecting.
+2024-07-29 18:01:28.8295 DEBUG Connection id "0HN5FPOTDLOHB" stopped.
+2024-07-29 18:01:28.8295 DEBUG Connection id "0HN5FPOTDLOHB" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 18:01:57.3734 DEBUG Connection id "0HN5FPOTDLOHF" disconnecting.
+2024-07-29 18:01:57.3734 DEBUG Connection id "0HN5FPOTDLOHF" stopped.
+2024-07-29 18:01:57.3734 DEBUG Connection id "0HN5FPOTDLOHF" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 18:15:45.0746 DEBUG init main
+2024-07-29 18:15:45.4555 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-07-29 18:15:45.5002 DEBUG Hosting starting
+2024-07-29 18:15:45.5183 INFO User profile is available. Using 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-29 18:15:45.5183 DEBUG Reading data from file 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys\key-729a7deb-0149-47d0-8c3e-c36066acf27f.xml'.
+2024-07-29 18:15:45.5262 DEBUG Found key {729a7deb-0149-47d0-8c3e-c36066acf27f}.
+2024-07-29 18:15:45.5262 DEBUG Considering key {729a7deb-0149-47d0-8c3e-c36066acf27f} with expiration date 2024-10-21 14:45:57Z as default key.
+2024-07-29 18:15:45.5262 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 18:15:45.5262 DEBUG Decrypting secret element using Windows DPAPI.
+2024-07-29 18:15:45.5262 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 18:15:45.5262 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2024-07-29 18:15:45.5262 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2024-07-29 18:15:45.5262 DEBUG Using key {729a7deb-0149-47d0-8c3e-c36066acf27f} as the default key.
+2024-07-29 18:15:45.5262 DEBUG Key ring with default key {729a7deb-0149-47d0-8c3e-c36066acf27f} was loaded during application startup.
+2024-07-29 18:15:45.6442 INFO Now listening on: http://localhost:5107
+2024-07-29 18:15:45.6442 DEBUG Loaded hosting startup assembly POS.WebAPI
+2024-07-29 18:15:45.6442 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 18:15:45.6442 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 18:15:45.6442 INFO Application started. Press Ctrl+C to shut down.
+2024-07-29 18:15:45.6442 INFO Hosting environment: Development
+2024-07-29 18:15:45.6442 INFO Content root path: D:\Visual Studio Projects\POS AL\POS.WebAPI
+2024-07-29 18:15:45.6442 DEBUG Hosting started
+2024-07-29 18:15:45.9359 DEBUG Connection id "0HN5FQ278NMU8" accepted.
+2024-07-29 18:15:45.9359 DEBUG Connection id "0HN5FQ278NMU9" accepted.
+2024-07-29 18:15:45.9359 DEBUG Connection id "0HN5FQ278NMU8" received FIN.
+2024-07-29 18:15:45.9359 DEBUG Connection id "0HN5FQ278NMU8" started.
+2024-07-29 18:15:45.9359 DEBUG Connection id "0HN5FQ278NMU9" started.
+2024-07-29 18:15:45.9359 DEBUG Connection id "0HN5FQ278NMU9" received FIN.
+2024-07-29 18:15:45.9496 DEBUG Connection id "0HN5FQ278NMU8" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 18:15:45.9496 DEBUG Connection id "0HN5FQ278NMU9" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 18:15:45.9496 DEBUG Connection id "0HN5FQ278NMU8" disconnecting.
+2024-07-29 18:15:45.9496 DEBUG Connection id "0HN5FQ278NMU9" disconnecting.
+2024-07-29 18:15:45.9496 DEBUG Connection id "0HN5FQ278NMU8" stopped.
+2024-07-29 18:15:45.9496 DEBUG Connection id "0HN5FQ278NMU9" stopped.
+2024-07-29 18:15:46.4249 DEBUG Connection id "0HN5FQ278NMUA" accepted.
+2024-07-29 18:15:46.4249 DEBUG Connection id "0HN5FQ278NMUA" started.
+2024-07-29 18:15:46.5206 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/index.html - - -
+2024-07-29 18:15:46.5206 DEBUG Connection id "0HN5FQ278NMUB" accepted.
+2024-07-29 18:15:46.5206 DEBUG Connection id "0HN5FQ278NMUB" started.
+2024-07-29 18:15:46.5375 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 18:15:46.5507 DEBUG No candidates found for the request path '/swagger/index.html'
+2024-07-29 18:15:46.5507 DEBUG Request did not match any endpoints
+2024-07-29 18:15:46.6094 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-07-29 18:15:46.6193 DEBUG Response markup was updated to include browser refresh script injection.
+2024-07-29 18:15:46.6193 DEBUG Connection id "0HN5FQ278NMUA" completed keep alive response.
+2024-07-29 18:15:46.6193 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/index.html - 200 - text/html;charset=utf-8 102.2143ms
+2024-07-29 18:15:46.6193 INFO Request starting HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - - -
+2024-07-29 18:15:46.6193 DEBUG Connection id "0HN5FQ278NMUA" completed keep alive response.
+2024-07-29 18:15:46.6193 INFO Request finished HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript;+charset=utf-8 3.1817ms
+2024-07-29 18:15:46.7964 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - - -
+2024-07-29 18:15:46.7964 DEBUG No candidates found for the request path '/swagger/v1/swagger.json'
+2024-07-29 18:15:46.7964 DEBUG Request did not match any endpoints
+2024-07-29 18:15:46.8968 DEBUG Connection id "0HN5FQ278NMUA" completed keep alive response.
+2024-07-29 18:15:46.8968 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 100.7826ms
+2024-07-29 19:42:52.2244 DEBUG init main
+2024-07-29 19:42:52.7536 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-07-29 19:42:52.8198 DEBUG Hosting starting
+2024-07-29 19:42:52.8470 INFO User profile is available. Using 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-29 19:42:52.8577 DEBUG Reading data from file 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys\key-729a7deb-0149-47d0-8c3e-c36066acf27f.xml'.
+2024-07-29 19:42:52.8577 DEBUG Found key {729a7deb-0149-47d0-8c3e-c36066acf27f}.
+2024-07-29 19:42:52.8773 DEBUG Considering key {729a7deb-0149-47d0-8c3e-c36066acf27f} with expiration date 2024-10-21 14:45:57Z as default key.
+2024-07-29 19:42:52.8773 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:42:52.8773 DEBUG Decrypting secret element using Windows DPAPI.
+2024-07-29 19:42:52.8773 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:42:52.8850 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2024-07-29 19:42:52.8850 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2024-07-29 19:42:52.8850 DEBUG Using key {729a7deb-0149-47d0-8c3e-c36066acf27f} as the default key.
+2024-07-29 19:42:52.8850 DEBUG Key ring with default key {729a7deb-0149-47d0-8c3e-c36066acf27f} was loaded during application startup.
+2024-07-29 19:42:53.0220 INFO Now listening on: http://localhost:5107
+2024-07-29 19:42:53.0220 DEBUG Loaded hosting startup assembly POS.WebAPI
+2024-07-29 19:42:53.0220 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 19:42:53.0220 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 19:42:53.0220 INFO Application started. Press Ctrl+C to shut down.
+2024-07-29 19:42:53.0220 INFO Hosting environment: Development
+2024-07-29 19:42:53.0243 INFO Content root path: D:\Visual Studio Projects\POS AL\POS.WebAPI
+2024-07-29 19:42:53.0243 DEBUG Hosting started
+2024-07-29 19:42:53.2595 DEBUG Connection id "0HN5FRIT4C8MV" accepted.
+2024-07-29 19:42:53.2595 DEBUG Connection id "0HN5FRIT4C8MU" accepted.
+2024-07-29 19:42:53.2595 DEBUG Connection id "0HN5FRIT4C8MU" started.
+2024-07-29 19:42:53.2595 DEBUG Connection id "0HN5FRIT4C8MV" started.
+2024-07-29 19:42:53.2595 DEBUG Connection id "0HN5FRIT4C8MU" received FIN.
+2024-07-29 19:42:53.2595 DEBUG Connection id "0HN5FRIT4C8MV" received FIN.
+2024-07-29 19:42:53.2831 DEBUG Connection id "0HN5FRIT4C8MV" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:42:53.2831 DEBUG Connection id "0HN5FRIT4C8MU" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:42:53.2831 DEBUG Connection id "0HN5FRIT4C8MV" disconnecting.
+2024-07-29 19:42:53.2831 DEBUG Connection id "0HN5FRIT4C8MU" disconnecting.
+2024-07-29 19:42:53.2831 DEBUG Connection id "0HN5FRIT4C8MU" stopped.
+2024-07-29 19:42:53.2831 DEBUG Connection id "0HN5FRIT4C8MV" stopped.
+2024-07-29 19:42:53.6542 DEBUG Connection id "0HN5FRIT4C8N0" accepted.
+2024-07-29 19:42:53.6876 DEBUG Connection id "0HN5FRIT4C8N0" started.
+2024-07-29 19:42:53.7096 DEBUG Connection id "0HN5FRIT4C8N1" accepted.
+2024-07-29 19:42:53.7604 DEBUG Connection id "0HN5FRIT4C8N1" started.
+2024-07-29 19:42:53.7846 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/index.html - - -
+2024-07-29 19:42:53.9833 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 19:42:53.9972 DEBUG No candidates found for the request path '/swagger/index.html'
+2024-07-29 19:42:53.9972 DEBUG Request did not match any endpoints
+2024-07-29 19:42:54.0515 DEBUG Response markup is scheduled to include Browser Link script injection.
+2024-07-29 19:42:54.0515 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-07-29 19:42:54.0656 DEBUG Response markup was updated to include Browser Link script injection.
+2024-07-29 19:42:54.0656 DEBUG Response markup was updated to include browser refresh script injection.
+2024-07-29 19:42:54.0656 DEBUG Connection id "0HN5FRIT4C8N0" completed keep alive response.
+2024-07-29 19:42:54.0656 INFO Request starting HTTP/1.1 GET http://localhost:5107/_vs/browserLink - - -
+2024-07-29 19:42:54.0656 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/index.html - 200 - text/html;charset=utf-8 293.4699ms
+2024-07-29 19:42:54.0656 INFO Request starting HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - - -
+2024-07-29 19:42:54.0726 DEBUG Connection id "0HN5FRIT4C8N0" completed keep alive response.
+2024-07-29 19:42:54.0726 INFO Request finished HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript;+charset=utf-8 2.1771ms
+2024-07-29 19:42:54.2274 DEBUG Connection id "0HN5FRIT4C8N1" completed keep alive response.
+2024-07-29 19:42:54.2279 INFO Request finished HTTP/1.1 GET http://localhost:5107/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 158.6861ms
+2024-07-29 19:42:54.2726 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - - -
+2024-07-29 19:42:54.2739 DEBUG No candidates found for the request path '/swagger/v1/swagger.json'
+2024-07-29 19:42:54.2739 DEBUG Request did not match any endpoints
+2024-07-29 19:42:54.4198 DEBUG Connection id "0HN5FRIT4C8N1" completed keep alive response.
+2024-07-29 19:42:54.4198 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 147.6175ms
+2024-07-29 19:42:58.7532 DEBUG Connection id "0HN5FRIT4C8N2" accepted.
+2024-07-29 19:42:58.7532 DEBUG Connection id "0HN5FRIT4C8N2" received FIN.
+2024-07-29 19:42:58.7532 DEBUG Connection id "0HN5FRIT4C8N2" started.
+2024-07-29 19:42:58.7532 DEBUG Connection id "0HN5FRIT4C8N2" disconnecting.
+2024-07-29 19:42:58.7532 DEBUG Connection id "0HN5FRIT4C8N3" accepted.
+2024-07-29 19:42:58.7532 DEBUG Connection id "0HN5FRIT4C8N2" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:42:58.7532 DEBUG Connection id "0HN5FRIT4C8N3" started.
+2024-07-29 19:42:58.7532 DEBUG Connection id "0HN5FRIT4C8N2" stopped.
+2024-07-29 19:42:58.7532 INFO Request starting HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - - -
+2024-07-29 19:42:58.7641 DEBUG 1 candidate(s) found for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:42:58.7641 DEBUG Endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)' with route pattern 'api/Users/GetAllUsers' is valid for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:42:58.7641 DEBUG Request matched endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:42:58.7641 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-07-29 19:42:58.8871 DEBUG Successfully validated the token.
+2024-07-29 19:42:58.9065 DEBUG AuthenticationScheme: Bearer was successfully authenticated.
+2024-07-29 19:42:58.9065 DEBUG Authorization was successful.
+2024-07-29 19:42:58.9065 INFO Executing endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:42:58.9386 INFO Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[POS.Model.User]]] GetUsers() on controller POS_System_API.Controllers.UsersController (POS.WebAPI).
+2024-07-29 19:42:58.9386 DEBUG Execution plan of authorization filters (in the following order): None
+2024-07-29 19:42:58.9386 DEBUG Execution plan of resource filters (in the following order): None
+2024-07-29 19:42:58.9386 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-07-29 19:42:58.9386 DEBUG Execution plan of exception filters (in the following order): None
+2024-07-29 19:42:58.9386 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-07-29 19:42:58.9386 DEBUG Executing controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 19:42:59.0289 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-29 19:42:59.2753 DEBUG The [Required] attribute on 'Sale.SaleProducts' was ignored because it is a collection. The [Required] attribute should only be specified on reference navigations pointing to the principal side of the relationship.
+2024-07-29 19:42:59.2753 DEBUG The [Required] attribute on 'Sale.SaleProducts' was ignored because it is a collection. The [Required] attribute should only be specified on reference navigations pointing to the principal side of the relationship.
+2024-07-29 19:42:59.3685 DEBUG The property 'Product.SaleId' was created in shadow state because there are no eligible CLR members with a matching name.
+2024-07-29 19:42:59.3991 DEBUG Entity Framework Core 8.0.7 initialized 'DBContext' using provider 'Microsoft.EntityFrameworkCore.InMemory:8.0.7' with options: StoreName=InMemoryDb 
+2024-07-29 19:42:59.4667 DEBUG 'DBContext' generated a value for the property 'User.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:42:59.4973 DEBUG Context 'DBContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:42:59.5257 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 19:42:59.5691 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 19:42:59.5831 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 19:42:59.6276 INFO Saved 1 entities to in-memory store.
+2024-07-29 19:42:59.6486 DEBUG An entity of type 'User' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:42:59.6660 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 19:42:59.6871 DEBUG 'DBContext' generated a value for the property 'User.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:42:59.7054 DEBUG Context 'DBContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:42:59.7164 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 19:42:59.7164 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 19:42:59.7164 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 19:42:59.7164 INFO Saved 1 entities to in-memory store.
+2024-07-29 19:42:59.7164 DEBUG An entity of type 'User' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:42:59.7164 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 19:42:59.7350 DEBUG 'DBContext' generated a value for the property 'Category.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:42:59.7502 DEBUG Context 'DBContext' started tracking 'Category' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:42:59.7502 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 19:42:59.7502 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 19:42:59.7502 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 19:42:59.7597 INFO Saved 1 entities to in-memory store.
+2024-07-29 19:42:59.7597 DEBUG An entity of type 'Category' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:42:59.7597 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 19:42:59.7597 DEBUG Executed controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 19:42:59.8752 INFO Executing action method POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI) - Validation state: Valid
+2024-07-29 19:42:59.8906 INFO ----GetAllUsers Started------
+2024-07-29 19:42:59.9169 DEBUG Compiling query expression: 
+'DbSet<User>()'
+2024-07-29 19:42:59.9928 DEBUG Generated query execution expression: 
+'queryContext => new QueryingEnumerable<User>(
+    queryContext, 
+    InMemoryShapedQueryCompilingExpressionVisitor.Table(
+        queryContext: queryContext, 
+        entityType: EntityType: User)
+        .Select(valueBuffer => new ValueBuffer(new object[]
+        { 
+            (object)ExpressionExtensions.ValueBufferTryReadValue<int>(
+                valueBuffer: valueBuffer, 
+                index: 0, 
+                property: Property: User.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 1, 
+                property: Property: User.Email (string) Required MaxLength(100)), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 2, 
+                property: Property: User.Name (string) Required MaxLength(100)), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 3, 
+                property: Property: User.Password (string) Required MaxLength(100)), 
+            (object)ExpressionExtensions.ValueBufferTryReadValue<UserRole>(
+                valueBuffer: valueBuffer, 
+                index: 4, 
+                property: Property: User.UserRole (UserRole) Required) 
+        })), 
+    Func<QueryContext, ValueBuffer, User>, 
+    POS.Data.DBContext, 
+    False, 
+    True
+)'
+2024-07-29 19:43:00.0679 INFO ----GetAllUsers End------
+2024-07-29 19:43:00.0794 INFO Executed action method POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 188.948ms.
+2024-07-29 19:43:00.1326 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-07-29 19:43:00.1377 DEBUG No information found on request to perform content negotiation.
+2024-07-29 19:43:00.1377 DEBUG Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-07-29 19:43:00.1377 DEBUG Attempting to select the first formatter in the output formatters list which can write the result.
+2024-07-29 19:43:00.1377 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-07-29 19:43:00.1377 INFO Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[POS.Model.User, POS.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[POS.DTO.UserDTO, POS.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-29 19:45:54.2331 DEBUG init main
+2024-07-29 19:45:54.9840 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-07-29 19:45:55.0399 DEBUG Hosting starting
+2024-07-29 19:45:55.0633 INFO User profile is available. Using 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-29 19:45:55.0633 DEBUG Reading data from file 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys\key-729a7deb-0149-47d0-8c3e-c36066acf27f.xml'.
+2024-07-29 19:45:55.0803 DEBUG Found key {729a7deb-0149-47d0-8c3e-c36066acf27f}.
+2024-07-29 19:45:55.0883 DEBUG Considering key {729a7deb-0149-47d0-8c3e-c36066acf27f} with expiration date 2024-10-21 14:45:57Z as default key.
+2024-07-29 19:45:55.0883 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:45:55.0883 DEBUG Decrypting secret element using Windows DPAPI.
+2024-07-29 19:45:55.0883 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:45:55.1061 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2024-07-29 19:45:55.1061 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2024-07-29 19:45:55.1061 DEBUG Using key {729a7deb-0149-47d0-8c3e-c36066acf27f} as the default key.
+2024-07-29 19:45:55.1061 DEBUG Key ring with default key {729a7deb-0149-47d0-8c3e-c36066acf27f} was loaded during application startup.
+2024-07-29 19:45:55.2842 INFO Now listening on: http://localhost:5107
+2024-07-29 19:45:55.2842 DEBUG Loaded hosting startup assembly POS.WebAPI
+2024-07-29 19:45:55.2842 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 19:45:55.2842 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 19:45:55.2842 INFO Application started. Press Ctrl+C to shut down.
+2024-07-29 19:45:55.2842 INFO Hosting environment: Development
+2024-07-29 19:45:55.2842 INFO Content root path: D:\Visual Studio Projects\POS AL\POS.WebAPI
+2024-07-29 19:45:55.2842 DEBUG Hosting started
+2024-07-29 19:45:55.4589 DEBUG Connection id "0HN5FRKJDV3S3" received FIN.
+2024-07-29 19:45:55.4589 DEBUG Connection id "0HN5FRKJDV3S2" received FIN.
+2024-07-29 19:45:55.4685 DEBUG Connection id "0HN5FRKJDV3S2" accepted.
+2024-07-29 19:45:55.4685 DEBUG Connection id "0HN5FRKJDV3S3" accepted.
+2024-07-29 19:45:55.4685 DEBUG Connection id "0HN5FRKJDV3S3" started.
+2024-07-29 19:45:55.4685 DEBUG Connection id "0HN5FRKJDV3S2" started.
+2024-07-29 19:45:55.4781 DEBUG Connection id "0HN5FRKJDV3S3" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:45:55.4781 DEBUG Connection id "0HN5FRKJDV3S2" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:45:55.4781 DEBUG Connection id "0HN5FRKJDV3S2" disconnecting.
+2024-07-29 19:45:55.4781 DEBUG Connection id "0HN5FRKJDV3S3" disconnecting.
+2024-07-29 19:45:55.4781 DEBUG Connection id "0HN5FRKJDV3S2" stopped.
+2024-07-29 19:45:55.4781 DEBUG Connection id "0HN5FRKJDV3S3" stopped.
+2024-07-29 19:45:55.7203 DEBUG Connection id "0HN5FRKJDV3S4" accepted.
+2024-07-29 19:45:55.7203 DEBUG Connection id "0HN5FRKJDV3S4" started.
+2024-07-29 19:45:55.8330 DEBUG Connection id "0HN5FRKJDV3S5" accepted.
+2024-07-29 19:45:55.8374 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/index.html - - -
+2024-07-29 19:45:55.9113 DEBUG Connection id "0HN5FRKJDV3S5" started.
+2024-07-29 19:45:56.0600 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 19:45:56.0872 DEBUG No candidates found for the request path '/swagger/index.html'
+2024-07-29 19:45:56.0872 DEBUG Request did not match any endpoints
+2024-07-29 19:45:56.1608 DEBUG Response markup is scheduled to include Browser Link script injection.
+2024-07-29 19:45:56.1608 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-07-29 19:45:56.1792 DEBUG Response markup was updated to include Browser Link script injection.
+2024-07-29 19:45:56.1792 DEBUG Response markup was updated to include browser refresh script injection.
+2024-07-29 19:45:56.1819 DEBUG Connection id "0HN5FRKJDV3S4" completed keep alive response.
+2024-07-29 19:45:56.1819 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/index.html - 200 - text/html;charset=utf-8 351.0002ms
+2024-07-29 19:45:56.1819 INFO Request starting HTTP/1.1 GET http://localhost:5107/_vs/browserLink - - -
+2024-07-29 19:45:56.1819 INFO Request starting HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - - -
+2024-07-29 19:45:56.2001 DEBUG Connection id "0HN5FRKJDV3S4" completed keep alive response.
+2024-07-29 19:45:56.2001 INFO Request finished HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript;+charset=utf-8 6.6277ms
+2024-07-29 19:45:56.2585 DEBUG Connection id "0HN5FRKJDV3S5" completed keep alive response.
+2024-07-29 19:45:56.2589 INFO Request finished HTTP/1.1 GET http://localhost:5107/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 67.4915ms
+2024-07-29 19:45:56.3116 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - - -
+2024-07-29 19:45:56.3116 DEBUG No candidates found for the request path '/swagger/v1/swagger.json'
+2024-07-29 19:45:56.3116 DEBUG Request did not match any endpoints
+2024-07-29 19:45:56.4020 DEBUG Connection id "0HN5FRKJDV3S5" completed keep alive response.
+2024-07-29 19:45:56.4020 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 90.8276ms
+2024-07-29 19:46:02.8450 DEBUG Connection id "0HN5FRKJDV3S6" accepted.
+2024-07-29 19:46:02.8450 DEBUG Connection id "0HN5FRKJDV3S6" received FIN.
+2024-07-29 19:46:02.8450 DEBUG Connection id "0HN5FRKJDV3S6" started.
+2024-07-29 19:46:02.8450 DEBUG Connection id "0HN5FRKJDV3S7" accepted.
+2024-07-29 19:46:02.8450 DEBUG Connection id "0HN5FRKJDV3S6" disconnecting.
+2024-07-29 19:46:02.8450 DEBUG Connection id "0HN5FRKJDV3S7" started.
+2024-07-29 19:46:02.8450 DEBUG Connection id "0HN5FRKJDV3S6" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:46:02.8450 INFO Request starting HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - - -
+2024-07-29 19:46:02.8542 DEBUG Connection id "0HN5FRKJDV3S6" stopped.
+2024-07-29 19:46:02.8542 DEBUG 1 candidate(s) found for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:46:02.8542 DEBUG Endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)' with route pattern 'api/Users/GetAllUsers' is valid for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:46:02.8542 DEBUG Request matched endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:46:02.8729 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-07-29 19:46:03.5233 DEBUG Successfully validated the token.
+2024-07-29 19:46:03.5335 DEBUG AuthenticationScheme: Bearer was successfully authenticated.
+2024-07-29 19:46:03.6739 DEBUG Authorization was successful.
+2024-07-29 19:46:03.6739 INFO Executing endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:46:03.8077 INFO Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[POS.Model.User]]] GetUsers() on controller POS_System_API.Controllers.UsersController (POS.WebAPI).
+2024-07-29 19:46:03.9013 DEBUG Execution plan of authorization filters (in the following order): None
+2024-07-29 19:46:03.9013 DEBUG Execution plan of resource filters (in the following order): None
+2024-07-29 19:46:03.9013 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-07-29 19:46:03.9013 DEBUG Execution plan of exception filters (in the following order): None
+2024-07-29 19:46:03.9013 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-07-29 19:46:03.9183 DEBUG Executing controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 19:46:04.8116 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-29 19:46:06.4889 DEBUG The [Required] attribute on 'Sale.SaleProducts' was ignored because it is a collection. The [Required] attribute should only be specified on reference navigations pointing to the principal side of the relationship.
+2024-07-29 19:46:06.5109 DEBUG The [Required] attribute on 'Sale.SaleProducts' was ignored because it is a collection. The [Required] attribute should only be specified on reference navigations pointing to the principal side of the relationship.
+2024-07-29 19:46:07.2911 DEBUG The property 'Product.SaleId' was created in shadow state because there are no eligible CLR members with a matching name.
+2024-07-29 19:46:07.5506 DEBUG Entity Framework Core 8.0.7 initialized 'DBContext' using provider 'Microsoft.EntityFrameworkCore.InMemory:8.0.7' with options: StoreName=InMemoryDb 
+2024-07-29 19:46:07.8681 DEBUG 'DBContext' generated a value for the property 'User.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:46:08.2123 DEBUG Context 'DBContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:46:08.2302 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 19:46:08.2530 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 19:46:08.3578 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 19:46:08.4392 INFO Saved 1 entities to in-memory store.
+2024-07-29 19:46:08.5443 DEBUG An entity of type 'User' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:46:08.6493 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 19:46:08.6493 DEBUG 'DBContext' generated a value for the property 'User.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:46:08.6493 DEBUG Context 'DBContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:46:08.6547 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 19:46:08.6547 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 19:46:08.6547 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 19:46:08.6547 INFO Saved 1 entities to in-memory store.
+2024-07-29 19:46:08.6547 DEBUG An entity of type 'User' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:46:08.6547 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 19:46:08.6863 DEBUG 'DBContext' generated a value for the property 'Category.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:46:08.7283 DEBUG Context 'DBContext' started tracking 'Category' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:46:08.7915 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 19:46:08.9327 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 19:46:08.9327 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 19:46:08.9492 INFO Saved 1 entities to in-memory store.
+2024-07-29 19:46:08.9492 DEBUG An entity of type 'Category' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:46:08.9492 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 19:46:08.9492 DEBUG Executed controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 19:46:09.2957 INFO Executing action method POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI) - Validation state: Valid
+2024-07-29 19:46:09.4231 INFO ----GetAllUsers Started------
+2024-07-29 19:46:09.5723 DEBUG Compiling query expression: 
+'DbSet<User>()'
+2024-07-29 19:46:10.7427 DEBUG Generated query execution expression: 
+'queryContext => new QueryingEnumerable<User>(
+    queryContext, 
+    InMemoryShapedQueryCompilingExpressionVisitor.Table(
+        queryContext: queryContext, 
+        entityType: EntityType: User)
+        .Select(valueBuffer => new ValueBuffer(new object[]
+        { 
+            (object)ExpressionExtensions.ValueBufferTryReadValue<int>(
+                valueBuffer: valueBuffer, 
+                index: 0, 
+                property: Property: User.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 1, 
+                property: Property: User.Email (string) Required MaxLength(100)), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 2, 
+                property: Property: User.Name (string) Required MaxLength(100)), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 3, 
+                property: Property: User.Password (string) Required MaxLength(100)), 
+            (object)ExpressionExtensions.ValueBufferTryReadValue<UserRole>(
+                valueBuffer: valueBuffer, 
+                index: 4, 
+                property: Property: User.UserRole (UserRole) Required) 
+        })), 
+    Func<QueryContext, ValueBuffer, User>, 
+    POS.Data.DBContext, 
+    False, 
+    True
+)'
+2024-07-29 19:46:10.9005 INFO ----GetAllUsers End------
+2024-07-29 19:46:10.9156 INFO Executed action method POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1507.8818ms.
+2024-07-29 19:46:10.9397 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-07-29 19:46:10.9397 DEBUG No information found on request to perform content negotiation.
+2024-07-29 19:46:10.9397 DEBUG Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-07-29 19:46:10.9397 DEBUG Attempting to select the first formatter in the output formatters list which can write the result.
+2024-07-29 19:46:10.9397 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-07-29 19:46:10.9397 INFO Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[POS.Model.User, POS.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[POS.DTO.UserDTO, POS.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-29 19:47:22.7769 DEBUG init main
+2024-07-29 19:47:23.4570 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-07-29 19:47:23.5228 DEBUG Hosting starting
+2024-07-29 19:47:23.5594 INFO User profile is available. Using 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-29 19:47:23.5594 DEBUG Reading data from file 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys\key-729a7deb-0149-47d0-8c3e-c36066acf27f.xml'.
+2024-07-29 19:47:23.5755 DEBUG Found key {729a7deb-0149-47d0-8c3e-c36066acf27f}.
+2024-07-29 19:47:23.5755 DEBUG Considering key {729a7deb-0149-47d0-8c3e-c36066acf27f} with expiration date 2024-10-21 14:45:57Z as default key.
+2024-07-29 19:47:23.5910 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:47:23.5910 DEBUG Decrypting secret element using Windows DPAPI.
+2024-07-29 19:47:23.5910 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:47:23.5910 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2024-07-29 19:47:23.5910 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2024-07-29 19:47:23.5910 DEBUG Using key {729a7deb-0149-47d0-8c3e-c36066acf27f} as the default key.
+2024-07-29 19:47:23.5910 DEBUG Key ring with default key {729a7deb-0149-47d0-8c3e-c36066acf27f} was loaded during application startup.
+2024-07-29 19:47:23.7242 INFO Now listening on: http://localhost:5107
+2024-07-29 19:47:23.7242 DEBUG Loaded hosting startup assembly POS.WebAPI
+2024-07-29 19:47:23.7242 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 19:47:23.7242 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 19:47:23.7242 INFO Application started. Press Ctrl+C to shut down.
+2024-07-29 19:47:23.7242 INFO Hosting environment: Development
+2024-07-29 19:47:23.7242 INFO Content root path: D:\Visual Studio Projects\POS AL\POS.WebAPI
+2024-07-29 19:47:23.7242 DEBUG Hosting started
+2024-07-29 19:47:24.0833 DEBUG Connection id "0HN5FRLDR45F7" accepted.
+2024-07-29 19:47:24.0833 DEBUG Connection id "0HN5FRLDR45F8" accepted.
+2024-07-29 19:47:24.0833 DEBUG Connection id "0HN5FRLDR45F8" received FIN.
+2024-07-29 19:47:24.0833 DEBUG Connection id "0HN5FRLDR45F7" received FIN.
+2024-07-29 19:47:24.0906 DEBUG Connection id "0HN5FRLDR45F8" started.
+2024-07-29 19:47:24.0906 DEBUG Connection id "0HN5FRLDR45F7" started.
+2024-07-29 19:47:24.0906 DEBUG Connection id "0HN5FRLDR45F7" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:47:24.0906 DEBUG Connection id "0HN5FRLDR45F8" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:47:24.0906 DEBUG Connection id "0HN5FRLDR45F7" disconnecting.
+2024-07-29 19:47:24.0906 DEBUG Connection id "0HN5FRLDR45F8" disconnecting.
+2024-07-29 19:47:24.0906 DEBUG Connection id "0HN5FRLDR45F8" stopped.
+2024-07-29 19:47:24.0906 DEBUG Connection id "0HN5FRLDR45F7" stopped.
+2024-07-29 19:47:24.6618 DEBUG Connection id "0HN5FRLDR45F9" accepted.
+2024-07-29 19:47:24.6794 DEBUG Connection id "0HN5FRLDR45F9" started.
+2024-07-29 19:47:24.7923 DEBUG Connection id "0HN5FRLDR45FA" accepted.
+2024-07-29 19:47:24.7923 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/index.html - - -
+2024-07-29 19:47:24.7923 DEBUG Connection id "0HN5FRLDR45FA" started.
+2024-07-29 19:47:25.0011 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 19:47:25.0202 DEBUG No candidates found for the request path '/swagger/index.html'
+2024-07-29 19:47:25.0252 DEBUG Request did not match any endpoints
+2024-07-29 19:47:25.1562 DEBUG Response markup is scheduled to include Browser Link script injection.
+2024-07-29 19:47:25.1562 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-07-29 19:47:25.2166 DEBUG Response markup was updated to include Browser Link script injection.
+2024-07-29 19:47:25.2166 DEBUG Response markup was updated to include browser refresh script injection.
+2024-07-29 19:47:25.2166 DEBUG Connection id "0HN5FRLDR45F9" completed keep alive response.
+2024-07-29 19:47:25.2343 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/index.html - 200 - text/html;charset=utf-8 436.1714ms
+2024-07-29 19:47:25.2343 INFO Request starting HTTP/1.1 GET http://localhost:5107/_vs/browserLink - - -
+2024-07-29 19:47:25.2343 INFO Request starting HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - - -
+2024-07-29 19:47:25.2452 DEBUG Connection id "0HN5FRLDR45F9" completed keep alive response.
+2024-07-29 19:47:25.2452 INFO Request finished HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript;+charset=utf-8 8.8170ms
+2024-07-29 19:47:25.2879 DEBUG Connection id "0HN5FRLDR45FA" completed keep alive response.
+2024-07-29 19:47:25.2879 INFO Request finished HTTP/1.1 GET http://localhost:5107/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 53.3071ms
+2024-07-29 19:47:25.3312 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - - -
+2024-07-29 19:47:25.3312 DEBUG No candidates found for the request path '/swagger/v1/swagger.json'
+2024-07-29 19:47:25.3312 DEBUG Request did not match any endpoints
+2024-07-29 19:47:25.4566 DEBUG Connection id "0HN5FRLDR45FA" completed keep alive response.
+2024-07-29 19:47:25.4566 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 126.6008ms
+2024-07-29 19:47:28.0639 DEBUG Connection id "0HN5FRLDR45FB" received FIN.
+2024-07-29 19:47:28.0639 DEBUG Connection id "0HN5FRLDR45FB" accepted.
+2024-07-29 19:47:28.0715 DEBUG Connection id "0HN5FRLDR45FB" started.
+2024-07-29 19:47:28.0715 DEBUG Connection id "0HN5FRLDR45FC" accepted.
+2024-07-29 19:47:28.0715 DEBUG Connection id "0HN5FRLDR45FB" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:47:28.0715 DEBUG Connection id "0HN5FRLDR45FC" started.
+2024-07-29 19:47:28.0715 DEBUG Connection id "0HN5FRLDR45FB" disconnecting.
+2024-07-29 19:47:28.0715 INFO Request starting HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - - -
+2024-07-29 19:47:28.0715 DEBUG Connection id "0HN5FRLDR45FB" stopped.
+2024-07-29 19:47:28.0715 DEBUG 1 candidate(s) found for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:47:28.0715 DEBUG Endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)' with route pattern 'api/Users/GetAllUsers' is valid for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:47:28.0883 DEBUG Request matched endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:47:28.0883 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-07-29 19:47:28.2170 DEBUG Successfully validated the token.
+2024-07-29 19:47:28.2170 DEBUG AuthenticationScheme: Bearer was successfully authenticated.
+2024-07-29 19:47:28.2170 DEBUG Authorization was successful.
+2024-07-29 19:47:28.2170 INFO Executing endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:47:28.2454 INFO Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[POS.Model.User]]] GetUsers() on controller POS_System_API.Controllers.UsersController (POS.WebAPI).
+2024-07-29 19:47:28.2454 DEBUG Execution plan of authorization filters (in the following order): None
+2024-07-29 19:47:28.2454 DEBUG Execution plan of resource filters (in the following order): None
+2024-07-29 19:47:28.2454 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-07-29 19:47:28.2454 DEBUG Execution plan of exception filters (in the following order): None
+2024-07-29 19:47:28.2454 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-07-29 19:47:28.2489 DEBUG Executing controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 19:47:28.3548 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-29 19:47:28.3777 INFO Executed action POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI) in 126.4232ms
+2024-07-29 19:47:28.3777 INFO Executed endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:47:28.4685 ERROR An unhandled exception has occurred.
+2024-07-29 19:47:28.4767 DEBUG Connection id "0HN5FRLDR45FC" completed keep alive response.
+2024-07-29 19:47:28.4767 INFO Request finished HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - 500 - application/json 401.4360ms
+2024-07-29 19:48:26.2968 DEBUG init main
+2024-07-29 19:48:27.1380 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-07-29 19:48:27.1926 DEBUG Hosting starting
+2024-07-29 19:48:27.2132 INFO User profile is available. Using 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-29 19:48:27.2277 DEBUG Reading data from file 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys\key-729a7deb-0149-47d0-8c3e-c36066acf27f.xml'.
+2024-07-29 19:48:27.2277 DEBUG Found key {729a7deb-0149-47d0-8c3e-c36066acf27f}.
+2024-07-29 19:48:27.2495 DEBUG Considering key {729a7deb-0149-47d0-8c3e-c36066acf27f} with expiration date 2024-10-21 14:45:57Z as default key.
+2024-07-29 19:48:27.2495 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:48:27.2495 DEBUG Decrypting secret element using Windows DPAPI.
+2024-07-29 19:48:27.2495 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:48:27.2495 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2024-07-29 19:48:27.2495 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2024-07-29 19:48:27.2590 DEBUG Using key {729a7deb-0149-47d0-8c3e-c36066acf27f} as the default key.
+2024-07-29 19:48:27.2590 DEBUG Key ring with default key {729a7deb-0149-47d0-8c3e-c36066acf27f} was loaded during application startup.
+2024-07-29 19:48:27.3806 INFO Now listening on: http://localhost:5107
+2024-07-29 19:48:27.3806 DEBUG Loaded hosting startup assembly POS.WebAPI
+2024-07-29 19:48:27.3806 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 19:48:27.3806 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 19:48:27.3806 INFO Application started. Press Ctrl+C to shut down.
+2024-07-29 19:48:27.3806 INFO Hosting environment: Development
+2024-07-29 19:48:27.3806 INFO Content root path: D:\Visual Studio Projects\POS AL\POS.WebAPI
+2024-07-29 19:48:27.3806 DEBUG Hosting started
+2024-07-29 19:48:27.8498 DEBUG Connection id "0HN5FRM0R93HQ" received FIN.
+2024-07-29 19:48:27.8498 DEBUG Connection id "0HN5FRM0R93HR" received FIN.
+2024-07-29 19:48:27.8628 DEBUG Connection id "0HN5FRM0R93HQ" accepted.
+2024-07-29 19:48:27.8628 DEBUG Connection id "0HN5FRM0R93HR" accepted.
+2024-07-29 19:48:27.8628 DEBUG Connection id "0HN5FRM0R93HR" started.
+2024-07-29 19:48:27.8628 DEBUG Connection id "0HN5FRM0R93HQ" started.
+2024-07-29 19:48:27.8684 DEBUG Connection id "0HN5FRM0R93HR" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:48:27.8684 DEBUG Connection id "0HN5FRM0R93HQ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:48:27.8684 DEBUG Connection id "0HN5FRM0R93HQ" disconnecting.
+2024-07-29 19:48:27.8684 DEBUG Connection id "0HN5FRM0R93HR" disconnecting.
+2024-07-29 19:48:27.8684 DEBUG Connection id "0HN5FRM0R93HQ" stopped.
+2024-07-29 19:48:27.8684 DEBUG Connection id "0HN5FRM0R93HR" stopped.
+2024-07-29 19:48:28.2930 DEBUG Connection id "0HN5FRM0R93HS" accepted.
+2024-07-29 19:48:28.2930 DEBUG Connection id "0HN5FRM0R93HS" started.
+2024-07-29 19:48:28.3609 DEBUG Connection id "0HN5FRM0R93HT" accepted.
+2024-07-29 19:48:28.3609 DEBUG Connection id "0HN5FRM0R93HT" started.
+2024-07-29 19:48:28.3804 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/index.html - - -
+2024-07-29 19:48:28.6086 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 19:48:28.6215 DEBUG No candidates found for the request path '/swagger/index.html'
+2024-07-29 19:48:28.6215 DEBUG Request did not match any endpoints
+2024-07-29 19:48:28.6816 DEBUG Response markup is scheduled to include Browser Link script injection.
+2024-07-29 19:48:28.6816 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-07-29 19:48:28.6994 DEBUG Response markup was updated to include Browser Link script injection.
+2024-07-29 19:48:28.6994 DEBUG Response markup was updated to include browser refresh script injection.
+2024-07-29 19:48:28.6994 DEBUG Connection id "0HN5FRM0R93HS" completed keep alive response.
+2024-07-29 19:48:28.6994 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/index.html - 200 - text/html;charset=utf-8 330.2536ms
+2024-07-29 19:48:28.7131 INFO Request starting HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - - -
+2024-07-29 19:48:28.7131 INFO Request starting HTTP/1.1 GET http://localhost:5107/_vs/browserLink - - -
+2024-07-29 19:48:28.7131 DEBUG Connection id "0HN5FRM0R93HS" completed keep alive response.
+2024-07-29 19:48:28.7131 INFO Request finished HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript;+charset=utf-8 3.4073ms
+2024-07-29 19:48:28.7522 DEBUG Connection id "0HN5FRM0R93HT" completed keep alive response.
+2024-07-29 19:48:28.7522 INFO Request finished HTTP/1.1 GET http://localhost:5107/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 39.5096ms
+2024-07-29 19:48:28.7969 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - - -
+2024-07-29 19:48:28.7969 DEBUG No candidates found for the request path '/swagger/v1/swagger.json'
+2024-07-29 19:48:28.7969 DEBUG Request did not match any endpoints
+2024-07-29 19:48:28.8984 DEBUG Connection id "0HN5FRM0R93HT" completed keep alive response.
+2024-07-29 19:48:28.8984 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 101.8809ms
+2024-07-29 19:48:32.1757 DEBUG Connection id "0HN5FRM0R93HU" received FIN.
+2024-07-29 19:48:32.1757 DEBUG Connection id "0HN5FRM0R93HU" accepted.
+2024-07-29 19:48:32.1757 DEBUG Connection id "0HN5FRM0R93HU" started.
+2024-07-29 19:48:32.1757 DEBUG Connection id "0HN5FRM0R93HU" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:48:32.1757 DEBUG Connection id "0HN5FRM0R93HV" accepted.
+2024-07-29 19:48:32.1757 DEBUG Connection id "0HN5FRM0R93HU" disconnecting.
+2024-07-29 19:48:32.1757 DEBUG Connection id "0HN5FRM0R93HV" started.
+2024-07-29 19:48:32.1757 DEBUG Connection id "0HN5FRM0R93HU" stopped.
+2024-07-29 19:48:32.1757 INFO Request starting HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - - -
+2024-07-29 19:48:32.1965 DEBUG 1 candidate(s) found for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:48:32.2007 DEBUG Endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)' with route pattern 'api/Users/GetAllUsers' is valid for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:48:32.2007 DEBUG Request matched endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:48:32.2167 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-07-29 19:48:32.4616 DEBUG Successfully validated the token.
+2024-07-29 19:48:32.4652 DEBUG AuthenticationScheme: Bearer was successfully authenticated.
+2024-07-29 19:48:32.4652 DEBUG Authorization was successful.
+2024-07-29 19:48:32.4652 INFO Executing endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:48:32.5391 INFO Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[POS.Model.User]]] GetUsers() on controller POS_System_API.Controllers.UsersController (POS.WebAPI).
+2024-07-29 19:48:32.5407 DEBUG Execution plan of authorization filters (in the following order): None
+2024-07-29 19:48:32.5407 DEBUG Execution plan of resource filters (in the following order): None
+2024-07-29 19:48:32.5407 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-07-29 19:48:32.5407 DEBUG Execution plan of exception filters (in the following order): None
+2024-07-29 19:48:32.5407 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-07-29 19:48:32.5407 DEBUG Executing controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 19:48:32.9176 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-29 19:48:33.1249 INFO Executed action POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI) in 564.8349ms
+2024-07-29 19:48:33.2308 INFO Executed endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:48:33.5370 ERROR An unhandled exception has occurred.
+2024-07-29 19:48:33.5547 DEBUG Connection id "0HN5FRM0R93HV" completed keep alive response.
+2024-07-29 19:48:33.6133 INFO Request finished HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - 500 - application/json 1432.1923ms
+2024-07-29 19:49:12.8318 DEBUG init main
+2024-07-29 19:49:13.4501 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-07-29 19:49:13.5051 DEBUG Hosting starting
+2024-07-29 19:49:13.5230 INFO User profile is available. Using 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-29 19:49:13.5273 DEBUG Reading data from file 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys\key-729a7deb-0149-47d0-8c3e-c36066acf27f.xml'.
+2024-07-29 19:49:13.5273 DEBUG Found key {729a7deb-0149-47d0-8c3e-c36066acf27f}.
+2024-07-29 19:49:13.5273 DEBUG Considering key {729a7deb-0149-47d0-8c3e-c36066acf27f} with expiration date 2024-10-21 14:45:57Z as default key.
+2024-07-29 19:49:13.5273 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:49:13.5395 DEBUG Decrypting secret element using Windows DPAPI.
+2024-07-29 19:49:13.5395 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:49:13.5395 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2024-07-29 19:49:13.5395 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2024-07-29 19:49:13.5395 DEBUG Using key {729a7deb-0149-47d0-8c3e-c36066acf27f} as the default key.
+2024-07-29 19:49:13.5395 DEBUG Key ring with default key {729a7deb-0149-47d0-8c3e-c36066acf27f} was loaded during application startup.
+2024-07-29 19:49:13.6504 INFO Now listening on: http://localhost:5107
+2024-07-29 19:49:13.6504 DEBUG Loaded hosting startup assembly POS.WebAPI
+2024-07-29 19:49:13.6504 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 19:49:13.6504 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 19:49:13.6504 INFO Application started. Press Ctrl+C to shut down.
+2024-07-29 19:49:13.6504 INFO Hosting environment: Development
+2024-07-29 19:49:13.6504 INFO Content root path: D:\Visual Studio Projects\POS AL\POS.WebAPI
+2024-07-29 19:49:13.6504 DEBUG Hosting started
+2024-07-29 19:49:13.8870 DEBUG Connection id "0HN5FRMEIAILJ" accepted.
+2024-07-29 19:49:13.8870 DEBUG Connection id "0HN5FRMEIAILK" accepted.
+2024-07-29 19:49:13.8870 DEBUG Connection id "0HN5FRMEIAILK" started.
+2024-07-29 19:49:13.8870 DEBUG Connection id "0HN5FRMEIAILJ" started.
+2024-07-29 19:49:13.9027 DEBUG Connection id "0HN5FRMEIAILJ" received FIN.
+2024-07-29 19:49:13.9027 DEBUG Connection id "0HN5FRMEIAILK" received FIN.
+2024-07-29 19:49:13.9173 DEBUG Connection id "0HN5FRMEIAILJ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:49:13.9173 DEBUG Connection id "0HN5FRMEIAILK" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:49:13.9173 DEBUG Connection id "0HN5FRMEIAILJ" disconnecting.
+2024-07-29 19:49:13.9173 DEBUG Connection id "0HN5FRMEIAILK" disconnecting.
+2024-07-29 19:49:13.9173 DEBUG Connection id "0HN5FRMEIAILJ" stopped.
+2024-07-29 19:49:13.9173 DEBUG Connection id "0HN5FRMEIAILK" stopped.
+2024-07-29 19:49:14.4487 DEBUG Connection id "0HN5FRMEIAILL" accepted.
+2024-07-29 19:49:14.4487 DEBUG Connection id "0HN5FRMEIAILL" started.
+2024-07-29 19:49:14.5244 DEBUG Connection id "0HN5FRMEIAILM" accepted.
+2024-07-29 19:49:14.5244 DEBUG Connection id "0HN5FRMEIAILM" started.
+2024-07-29 19:49:14.5557 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/index.html - - -
+2024-07-29 19:49:14.6745 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 19:49:14.6878 DEBUG No candidates found for the request path '/swagger/index.html'
+2024-07-29 19:49:14.6878 DEBUG Request did not match any endpoints
+2024-07-29 19:49:14.7434 DEBUG Response markup is scheduled to include Browser Link script injection.
+2024-07-29 19:49:14.7434 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-07-29 19:49:14.7434 DEBUG Response markup was updated to include Browser Link script injection.
+2024-07-29 19:49:14.7434 DEBUG Response markup was updated to include browser refresh script injection.
+2024-07-29 19:49:14.7434 DEBUG Connection id "0HN5FRMEIAILL" completed keep alive response.
+2024-07-29 19:49:14.7434 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/index.html - 200 - text/html;charset=utf-8 217.4442ms
+2024-07-29 19:49:14.7610 INFO Request starting HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - - -
+2024-07-29 19:49:14.7610 INFO Request starting HTTP/1.1 GET http://localhost:5107/_vs/browserLink - - -
+2024-07-29 19:49:14.7610 DEBUG Connection id "0HN5FRMEIAILL" completed keep alive response.
+2024-07-29 19:49:14.7610 INFO Request finished HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript;+charset=utf-8 8.4578ms
+2024-07-29 19:49:14.7948 DEBUG Connection id "0HN5FRMEIAILM" completed keep alive response.
+2024-07-29 19:49:14.7948 INFO Request finished HTTP/1.1 GET http://localhost:5107/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 33.7179ms
+2024-07-29 19:49:14.8517 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - - -
+2024-07-29 19:49:14.8661 DEBUG No candidates found for the request path '/swagger/v1/swagger.json'
+2024-07-29 19:49:14.8702 DEBUG Request did not match any endpoints
+2024-07-29 19:49:14.9745 DEBUG Connection id "0HN5FRMEIAILM" completed keep alive response.
+2024-07-29 19:49:14.9790 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 127.3408ms
+2024-07-29 19:49:17.6903 DEBUG Connection id "0HN5FRMEIAILN" received FIN.
+2024-07-29 19:49:17.6903 DEBUG Connection id "0HN5FRMEIAILN" accepted.
+2024-07-29 19:49:17.6903 DEBUG Connection id "0HN5FRMEIAILN" started.
+2024-07-29 19:49:17.6903 DEBUG Connection id "0HN5FRMEIAILN" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:49:17.6903 DEBUG Connection id "0HN5FRMEIAILO" accepted.
+2024-07-29 19:49:17.6903 DEBUG Connection id "0HN5FRMEIAILN" disconnecting.
+2024-07-29 19:49:17.6903 DEBUG Connection id "0HN5FRMEIAILO" started.
+2024-07-29 19:49:17.6903 DEBUG Connection id "0HN5FRMEIAILN" stopped.
+2024-07-29 19:49:17.6903 INFO Request starting HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - - -
+2024-07-29 19:49:17.7047 DEBUG 1 candidate(s) found for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:49:17.7047 DEBUG Endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)' with route pattern 'api/Users/GetAllUsers' is valid for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:49:17.7047 DEBUG Request matched endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:49:17.7125 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-07-29 19:49:17.9029 DEBUG Successfully validated the token.
+2024-07-29 19:49:17.9029 DEBUG AuthenticationScheme: Bearer was successfully authenticated.
+2024-07-29 19:49:17.9029 DEBUG Authorization was successful.
+2024-07-29 19:49:17.9029 INFO Executing endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:49:17.9512 INFO Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[POS.Model.User]]] GetUsers() on controller POS_System_API.Controllers.UsersController (POS.WebAPI).
+2024-07-29 19:49:17.9512 DEBUG Execution plan of authorization filters (in the following order): None
+2024-07-29 19:49:17.9512 DEBUG Execution plan of resource filters (in the following order): None
+2024-07-29 19:49:17.9512 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-07-29 19:49:17.9512 DEBUG Execution plan of exception filters (in the following order): None
+2024-07-29 19:49:17.9512 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-07-29 19:49:17.9512 DEBUG Executing controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 19:49:18.0753 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-29 19:49:18.1219 INFO Executed action POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI) in 156.3243ms
+2024-07-29 19:49:18.1256 INFO Executed endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:49:18.2174 ERROR An unhandled exception has occurred.
+2024-07-29 19:49:18.2383 DEBUG Connection id "0HN5FRMEIAILO" completed keep alive response.
+2024-07-29 19:49:18.2383 INFO Request finished HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - 500 - application/json 547.9988ms
+2024-07-29 19:49:52.0008 DEBUG init main
+2024-07-29 19:49:52.7234 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-07-29 19:49:52.7929 DEBUG Hosting starting
+2024-07-29 19:49:52.8142 INFO User profile is available. Using 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-29 19:49:52.8142 DEBUG Reading data from file 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys\key-729a7deb-0149-47d0-8c3e-c36066acf27f.xml'.
+2024-07-29 19:49:52.8257 DEBUG Found key {729a7deb-0149-47d0-8c3e-c36066acf27f}.
+2024-07-29 19:49:52.8257 DEBUG Considering key {729a7deb-0149-47d0-8c3e-c36066acf27f} with expiration date 2024-10-21 14:45:57Z as default key.
+2024-07-29 19:49:52.8257 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:49:52.8257 DEBUG Decrypting secret element using Windows DPAPI.
+2024-07-29 19:49:52.8257 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:49:52.8366 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2024-07-29 19:49:52.8366 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2024-07-29 19:49:52.8366 DEBUG Using key {729a7deb-0149-47d0-8c3e-c36066acf27f} as the default key.
+2024-07-29 19:49:52.8366 DEBUG Key ring with default key {729a7deb-0149-47d0-8c3e-c36066acf27f} was loaded during application startup.
+2024-07-29 19:49:52.9794 INFO Now listening on: http://localhost:5107
+2024-07-29 19:49:52.9794 DEBUG Loaded hosting startup assembly POS.WebAPI
+2024-07-29 19:49:52.9794 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 19:49:52.9794 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 19:49:52.9794 INFO Application started. Press Ctrl+C to shut down.
+2024-07-29 19:49:52.9794 INFO Hosting environment: Development
+2024-07-29 19:49:52.9794 INFO Content root path: D:\Visual Studio Projects\POS AL\POS.WebAPI
+2024-07-29 19:49:52.9794 DEBUG Hosting started
+2024-07-29 19:49:53.0663 DEBUG Connection id "0HN5FRMQ7V2H0" accepted.
+2024-07-29 19:49:53.0663 DEBUG Connection id "0HN5FRMQ7V2H1" accepted.
+2024-07-29 19:49:53.0663 DEBUG Connection id "0HN5FRMQ7V2H0" started.
+2024-07-29 19:49:53.0663 DEBUG Connection id "0HN5FRMQ7V2H1" started.
+2024-07-29 19:49:53.0814 DEBUG Connection id "0HN5FRMQ7V2H1" received FIN.
+2024-07-29 19:49:53.0814 DEBUG Connection id "0HN5FRMQ7V2H0" received FIN.
+2024-07-29 19:49:53.0878 DEBUG Connection id "0HN5FRMQ7V2H1" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:49:53.0878 DEBUG Connection id "0HN5FRMQ7V2H0" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:49:53.0878 DEBUG Connection id "0HN5FRMQ7V2H0" disconnecting.
+2024-07-29 19:49:53.0878 DEBUG Connection id "0HN5FRMQ7V2H1" disconnecting.
+2024-07-29 19:49:53.0878 DEBUG Connection id "0HN5FRMQ7V2H0" stopped.
+2024-07-29 19:49:53.0878 DEBUG Connection id "0HN5FRMQ7V2H1" stopped.
+2024-07-29 19:49:53.2977 DEBUG Connection id "0HN5FRMQ7V2H2" accepted.
+2024-07-29 19:49:53.4156 DEBUG Connection id "0HN5FRMQ7V2H2" started.
+2024-07-29 19:49:53.6590 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/index.html - - -
+2024-07-29 19:49:53.8439 DEBUG Connection id "0HN5FRMQ7V2H3" accepted.
+2024-07-29 19:49:53.8439 DEBUG Connection id "0HN5FRMQ7V2H3" started.
+2024-07-29 19:49:53.9123 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 19:49:53.9321 DEBUG No candidates found for the request path '/swagger/index.html'
+2024-07-29 19:49:53.9321 DEBUG Request did not match any endpoints
+2024-07-29 19:49:53.9967 DEBUG Response markup is scheduled to include Browser Link script injection.
+2024-07-29 19:49:53.9967 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-07-29 19:49:54.0109 DEBUG Response markup was updated to include Browser Link script injection.
+2024-07-29 19:49:54.0109 DEBUG Response markup was updated to include browser refresh script injection.
+2024-07-29 19:49:54.0109 DEBUG Connection id "0HN5FRMQ7V2H2" completed keep alive response.
+2024-07-29 19:49:54.0109 INFO Request starting HTTP/1.1 GET http://localhost:5107/_vs/browserLink - - -
+2024-07-29 19:49:54.0109 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/index.html - 200 - text/html;charset=utf-8 360.2301ms
+2024-07-29 19:49:54.0109 INFO Request starting HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - - -
+2024-07-29 19:49:54.0250 DEBUG Connection id "0HN5FRMQ7V2H2" completed keep alive response.
+2024-07-29 19:49:54.0250 INFO Request finished HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript;+charset=utf-8 7.4937ms
+2024-07-29 19:49:54.0527 DEBUG Connection id "0HN5FRMQ7V2H3" completed keep alive response.
+2024-07-29 19:49:54.0527 INFO Request finished HTTP/1.1 GET http://localhost:5107/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 36.3413ms
+2024-07-29 19:49:54.0944 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - - -
+2024-07-29 19:49:54.0944 DEBUG No candidates found for the request path '/swagger/v1/swagger.json'
+2024-07-29 19:49:54.0944 DEBUG Request did not match any endpoints
+2024-07-29 19:49:54.1994 DEBUG Connection id "0HN5FRMQ7V2H3" completed keep alive response.
+2024-07-29 19:49:54.1994 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 105.4656ms
+2024-07-29 19:49:57.6513 DEBUG Connection id "0HN5FRMQ7V2H4" received FIN.
+2024-07-29 19:49:57.6513 DEBUG Connection id "0HN5FRMQ7V2H4" accepted.
+2024-07-29 19:49:57.6513 DEBUG Connection id "0HN5FRMQ7V2H4" started.
+2024-07-29 19:49:57.6513 DEBUG Connection id "0HN5FRMQ7V2H4" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:49:57.6513 DEBUG Connection id "0HN5FRMQ7V2H5" accepted.
+2024-07-29 19:49:57.6513 DEBUG Connection id "0HN5FRMQ7V2H4" disconnecting.
+2024-07-29 19:49:57.6513 DEBUG Connection id "0HN5FRMQ7V2H5" started.
+2024-07-29 19:49:57.6513 DEBUG Connection id "0HN5FRMQ7V2H4" stopped.
+2024-07-29 19:49:57.6513 INFO Request starting HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - - -
+2024-07-29 19:49:57.6513 DEBUG 1 candidate(s) found for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:49:57.6676 DEBUG Endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)' with route pattern 'api/Users/GetAllUsers' is valid for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:49:57.6676 DEBUG Request matched endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:49:57.6676 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-07-29 19:49:57.8189 DEBUG Successfully validated the token.
+2024-07-29 19:49:57.8189 DEBUG AuthenticationScheme: Bearer was successfully authenticated.
+2024-07-29 19:49:57.8228 DEBUG Authorization was successful.
+2024-07-29 19:49:57.8228 INFO Executing endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:49:57.8470 INFO Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[POS.Model.User]]] GetUsers() on controller POS_System_API.Controllers.UsersController (POS.WebAPI).
+2024-07-29 19:49:57.8470 DEBUG Execution plan of authorization filters (in the following order): None
+2024-07-29 19:49:57.8470 DEBUG Execution plan of resource filters (in the following order): None
+2024-07-29 19:49:57.8470 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-07-29 19:49:57.8470 DEBUG Execution plan of exception filters (in the following order): None
+2024-07-29 19:49:57.8470 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-07-29 19:49:57.8521 DEBUG Executing controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 19:49:57.9874 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-29 19:49:58.0029 INFO Executed action POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI) in 148.9217ms
+2024-07-29 19:49:58.0029 INFO Executed endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:49:58.0401 ERROR An unhandled exception has occurred.
+2024-07-29 19:49:58.0401 DEBUG Connection id "0HN5FRMQ7V2H5" completed keep alive response.
+2024-07-29 19:49:58.0401 INFO Request finished HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - 500 - application/json 400.7477ms
+2024-07-29 19:53:06.9745 DEBUG init main
+2024-07-29 19:53:07.4964 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-07-29 19:53:07.5497 DEBUG Hosting starting
+2024-07-29 19:53:07.5739 INFO User profile is available. Using 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-29 19:53:07.5739 DEBUG Reading data from file 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys\key-729a7deb-0149-47d0-8c3e-c36066acf27f.xml'.
+2024-07-29 19:53:07.5739 DEBUG Found key {729a7deb-0149-47d0-8c3e-c36066acf27f}.
+2024-07-29 19:53:07.5907 DEBUG Considering key {729a7deb-0149-47d0-8c3e-c36066acf27f} with expiration date 2024-10-21 14:45:57Z as default key.
+2024-07-29 19:53:07.5907 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:53:07.5907 DEBUG Decrypting secret element using Windows DPAPI.
+2024-07-29 19:53:07.5907 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-29 19:53:07.5907 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2024-07-29 19:53:07.5907 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2024-07-29 19:53:07.5907 DEBUG Using key {729a7deb-0149-47d0-8c3e-c36066acf27f} as the default key.
+2024-07-29 19:53:07.5907 DEBUG Key ring with default key {729a7deb-0149-47d0-8c3e-c36066acf27f} was loaded during application startup.
+2024-07-29 19:53:07.7033 INFO Now listening on: http://localhost:5107
+2024-07-29 19:53:07.7033 DEBUG Loaded hosting startup assembly POS.WebAPI
+2024-07-29 19:53:07.7033 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 19:53:07.7033 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 19:53:07.7033 INFO Application started. Press Ctrl+C to shut down.
+2024-07-29 19:53:07.7033 INFO Hosting environment: Development
+2024-07-29 19:53:07.7033 INFO Content root path: D:\Visual Studio Projects\POS AL\POS.WebAPI
+2024-07-29 19:53:07.7033 DEBUG Hosting started
+2024-07-29 19:53:07.9644 DEBUG Connection id "0HN5FROKAL9AS" accepted.
+2024-07-29 19:53:07.9644 DEBUG Connection id "0HN5FROKAL9AR" accepted.
+2024-07-29 19:53:07.9644 DEBUG Connection id "0HN5FROKAL9AS" started.
+2024-07-29 19:53:07.9644 DEBUG Connection id "0HN5FROKAL9AR" started.
+2024-07-29 19:53:07.9644 DEBUG Connection id "0HN5FROKAL9AR" received FIN.
+2024-07-29 19:53:07.9644 DEBUG Connection id "0HN5FROKAL9AS" received FIN.
+2024-07-29 19:53:07.9849 DEBUG Connection id "0HN5FROKAL9AS" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:53:07.9849 DEBUG Connection id "0HN5FROKAL9AR" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:53:07.9849 DEBUG Connection id "0HN5FROKAL9AR" disconnecting.
+2024-07-29 19:53:07.9849 DEBUG Connection id "0HN5FROKAL9AS" disconnecting.
+2024-07-29 19:53:07.9849 DEBUG Connection id "0HN5FROKAL9AR" stopped.
+2024-07-29 19:53:07.9849 DEBUG Connection id "0HN5FROKAL9AS" stopped.
+2024-07-29 19:53:08.6601 DEBUG Connection id "0HN5FROKAL9AT" accepted.
+2024-07-29 19:53:08.6601 DEBUG Connection id "0HN5FROKAL9AT" started.
+2024-07-29 19:53:08.7945 DEBUG Connection id "0HN5FROKAL9AU" accepted.
+2024-07-29 19:53:08.7945 DEBUG Connection id "0HN5FROKAL9AU" started.
+2024-07-29 19:53:08.8324 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/index.html - - -
+2024-07-29 19:53:09.2466 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 19:53:09.2466 DEBUG No candidates found for the request path '/swagger/index.html'
+2024-07-29 19:53:09.2466 DEBUG Request did not match any endpoints
+2024-07-29 19:53:09.3013 DEBUG Response markup is scheduled to include Browser Link script injection.
+2024-07-29 19:53:09.3013 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-07-29 19:53:09.3128 DEBUG Response markup was updated to include Browser Link script injection.
+2024-07-29 19:53:09.3128 DEBUG Response markup was updated to include browser refresh script injection.
+2024-07-29 19:53:09.3128 DEBUG Connection id "0HN5FROKAL9AT" completed keep alive response.
+2024-07-29 19:53:09.3128 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/index.html - 200 - text/html;charset=utf-8 486.4130ms
+2024-07-29 19:53:09.3128 INFO Request starting HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - - -
+2024-07-29 19:53:09.3128 DEBUG Connection id "0HN5FROKAL9AT" completed keep alive response.
+2024-07-29 19:53:09.3128 INFO Request finished HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript;+charset=utf-8 2.1056ms
+2024-07-29 19:53:09.3230 INFO Request starting HTTP/1.1 GET http://localhost:5107/_vs/browserLink - - -
+2024-07-29 19:53:09.3571 DEBUG Connection id "0HN5FROKAL9AT" completed keep alive response.
+2024-07-29 19:53:09.3571 INFO Request finished HTTP/1.1 GET http://localhost:5107/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 34.8334ms
+2024-07-29 19:53:09.4005 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - - -
+2024-07-29 19:53:09.4005 DEBUG No candidates found for the request path '/swagger/v1/swagger.json'
+2024-07-29 19:53:09.4005 DEBUG Request did not match any endpoints
+2024-07-29 19:53:09.4787 DEBUG Connection id "0HN5FROKAL9AT" completed keep alive response.
+2024-07-29 19:53:09.4787 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 78.5014ms
+2024-07-29 19:53:17.1668 DEBUG Connection id "0HN5FROKAL9AV" received FIN.
+2024-07-29 19:53:17.1668 DEBUG Connection id "0HN5FROKAL9AV" accepted.
+2024-07-29 19:53:17.1668 DEBUG Connection id "0HN5FROKAL9AV" started.
+2024-07-29 19:53:17.1668 DEBUG Connection id "0HN5FROKAL9B0" accepted.
+2024-07-29 19:53:17.1668 DEBUG Connection id "0HN5FROKAL9B0" started.
+2024-07-29 19:53:17.1668 INFO Request starting HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - - -
+2024-07-29 19:53:17.1668 DEBUG Connection id "0HN5FROKAL9AV" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 19:53:17.1820 DEBUG Connection id "0HN5FROKAL9AV" disconnecting.
+2024-07-29 19:53:17.1820 DEBUG Connection id "0HN5FROKAL9AV" stopped.
+2024-07-29 19:53:17.1820 DEBUG 1 candidate(s) found for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:53:17.1820 DEBUG Endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)' with route pattern 'api/Users/GetAllUsers' is valid for the request path '/api/Users/GetAllUsers'
+2024-07-29 19:53:17.1971 DEBUG Request matched endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:53:17.1971 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-07-29 19:53:17.4296 DEBUG Successfully validated the token.
+2024-07-29 19:53:17.4372 DEBUG AuthenticationScheme: Bearer was successfully authenticated.
+2024-07-29 19:53:17.4528 DEBUG Authorization was successful.
+2024-07-29 19:53:17.4528 INFO Executing endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:53:17.4985 INFO Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[POS.Model.User]]] GetUsers() on controller POS_System_API.Controllers.UsersController (POS.WebAPI).
+2024-07-29 19:53:17.4985 DEBUG Execution plan of authorization filters (in the following order): None
+2024-07-29 19:53:17.4985 DEBUG Execution plan of resource filters (in the following order): None
+2024-07-29 19:53:17.4985 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-07-29 19:53:17.4985 DEBUG Execution plan of exception filters (in the following order): None
+2024-07-29 19:53:17.4985 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-07-29 19:53:17.4985 DEBUG Executing controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 19:53:17.9013 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-29 19:53:20.2459 DEBUG The [Required] attribute on 'Sale.SaleProducts' was ignored because it is a collection. The [Required] attribute should only be specified on reference navigations pointing to the principal side of the relationship.
+2024-07-29 19:53:20.2459 DEBUG The [Required] attribute on 'Sale.SaleProducts' was ignored because it is a collection. The [Required] attribute should only be specified on reference navigations pointing to the principal side of the relationship.
+2024-07-29 19:53:20.4544 DEBUG The property 'Product.SaleId' was created in shadow state because there are no eligible CLR members with a matching name.
+2024-07-29 19:53:20.5646 DEBUG Entity Framework Core 8.0.7 initialized 'DBContext' using provider 'Microsoft.EntityFrameworkCore.InMemory:8.0.7' with options: StoreName=InMemoryDb 
+2024-07-29 19:53:20.6350 DEBUG 'DBContext' generated a value for the property 'User.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:53:20.6926 DEBUG Context 'DBContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:53:20.6926 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 19:53:20.7048 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 19:53:20.7305 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 19:53:20.7588 INFO Saved 1 entities to in-memory store.
+2024-07-29 19:53:20.7786 DEBUG An entity of type 'User' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:53:20.7786 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 19:53:20.7786 DEBUG 'DBContext' generated a value for the property 'User.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:53:20.7786 DEBUG Context 'DBContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:53:20.7786 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 19:53:20.7786 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 19:53:20.7924 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 19:53:20.7924 INFO Saved 1 entities to in-memory store.
+2024-07-29 19:53:20.7924 DEBUG An entity of type 'User' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:53:20.7924 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 19:53:20.8145 DEBUG 'DBContext' generated a value for the property 'Category.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:53:20.8235 DEBUG Context 'DBContext' started tracking 'Category' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:53:20.8235 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-29 19:53:20.8235 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-29 19:53:20.8235 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-29 19:53:20.8235 INFO Saved 1 entities to in-memory store.
+2024-07-29 19:53:20.8235 DEBUG An entity of type 'Category' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-29 19:53:20.8235 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-29 19:53:20.8235 DEBUG Executed controller factory for controller POS_System_API.Controllers.UsersController (POS.WebAPI)
+2024-07-29 19:53:21.1350 INFO Executing action method POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI) - Validation state: Valid
+2024-07-29 19:53:21.1456 INFO ----GetAllUsers Started------
+2024-07-29 19:53:21.1858 DEBUG Compiling query expression: 
+'DbSet<User>()'
+2024-07-29 19:53:21.7561 DEBUG Generated query execution expression: 
+'queryContext => new QueryingEnumerable<User>(
+    queryContext, 
+    InMemoryShapedQueryCompilingExpressionVisitor.Table(
+        queryContext: queryContext, 
+        entityType: EntityType: User)
+        .Select(valueBuffer => new ValueBuffer(new object[]
+        { 
+            (object)ExpressionExtensions.ValueBufferTryReadValue<int>(
+                valueBuffer: valueBuffer, 
+                index: 0, 
+                property: Property: User.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 1, 
+                property: Property: User.Email (string) Required MaxLength(100)), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 2, 
+                property: Property: User.Name (string) Required MaxLength(100)), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 3, 
+                property: Property: User.Password (string) Required MaxLength(100)), 
+            (object)ExpressionExtensions.ValueBufferTryReadValue<UserRole>(
+                valueBuffer: valueBuffer, 
+                index: 4, 
+                property: Property: User.UserRole (UserRole) Required) 
+        })), 
+    Func<QueryContext, ValueBuffer, User>, 
+    POS.Data.DBContext, 
+    False, 
+    True
+)'
+2024-07-29 19:53:21.7992 INFO ----GetAllUsers End------
+2024-07-29 19:53:21.8816 INFO Executed action method POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 728.998ms.
+2024-07-29 19:53:21.8816 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-07-29 19:53:21.8937 DEBUG No information found on request to perform content negotiation.
+2024-07-29 19:53:21.8937 DEBUG Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-07-29 19:53:21.8937 DEBUG Attempting to select the first formatter in the output formatters list which can write the result.
+2024-07-29 19:53:21.8937 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-07-29 19:53:21.9006 INFO Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[POS.Model.User, POS.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[POS.DTO.UserDTO, POS.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-29 19:53:22.0061 INFO Executed action POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI) in 4493.9911ms
+2024-07-29 19:53:22.0061 INFO Executed endpoint 'POS_System_API.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-29 19:53:22.0061 DEBUG Connection id "0HN5FROKAL9B0" completed keep alive response.
+2024-07-29 19:53:22.0129 DEBUG 'DBContext' disposed.
+2024-07-29 19:53:22.0129 INFO Request finished HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - 200 - application/json;+charset=utf-8 4843.5514ms
+2024-07-30 14:48:39.1142 DEBUG init main
+2024-07-30 14:48:39.7954 DEBUG Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-07-30 14:48:39.8521 DEBUG Hosting starting
+2024-07-30 14:48:39.8707 INFO User profile is available. Using 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-30 14:48:39.8707 DEBUG Reading data from file 'C:\Users\LENOVO\AppData\Local\ASP.NET\DataProtection-Keys\key-729a7deb-0149-47d0-8c3e-c36066acf27f.xml'.
+2024-07-30 14:48:39.8707 DEBUG Found key {729a7deb-0149-47d0-8c3e-c36066acf27f}.
+2024-07-30 14:48:39.8928 DEBUG Considering key {729a7deb-0149-47d0-8c3e-c36066acf27f} with expiration date 2024-10-21 14:45:57Z as default key.
+2024-07-30 14:48:39.8928 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-30 14:48:39.8928 DEBUG Decrypting secret element using Windows DPAPI.
+2024-07-30 14:48:39.8928 DEBUG Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-07-30 14:48:39.8996 DEBUG Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+2024-07-30 14:48:39.8996 DEBUG Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+2024-07-30 14:48:39.8996 DEBUG Using key {729a7deb-0149-47d0-8c3e-c36066acf27f} as the default key.
+2024-07-30 14:48:39.8996 DEBUG Key ring with default key {729a7deb-0149-47d0-8c3e-c36066acf27f} was loaded during application startup.
+2024-07-30 14:48:40.1276 INFO Now listening on: http://localhost:5107
+2024-07-30 14:48:40.1276 DEBUG Loaded hosting startup assembly POS.WebAPI
+2024-07-30 14:48:40.1276 DEBUG Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-30 14:48:40.1276 DEBUG Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-30 14:48:40.1276 INFO Application started. Press Ctrl+C to shut down.
+2024-07-30 14:48:40.1276 INFO Hosting environment: Development
+2024-07-30 14:48:40.1276 INFO Content root path: D:\Visual Studio Projects\POS AL\POS.WebAPI
+2024-07-30 14:48:40.1276 DEBUG Hosting started
+2024-07-30 14:48:40.1442 DEBUG Connection id "0HN5GFJ59OGTL" accepted.
+2024-07-30 14:48:40.1442 DEBUG Connection id "0HN5GFJ59OGTK" accepted.
+2024-07-30 14:48:40.1442 DEBUG Connection id "0HN5GFJ59OGTK" started.
+2024-07-30 14:48:40.1883 DEBUG Connection id "0HN5GFJ59OGTL" started.
+2024-07-30 14:48:40.2015 DEBUG Connection id "0HN5GFJ59OGTK" received FIN.
+2024-07-30 14:48:40.2015 DEBUG Connection id "0HN5GFJ59OGTL" received FIN.
+2024-07-30 14:48:40.2015 DEBUG Connection id "0HN5GFJ59OGTL" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-30 14:48:40.2015 DEBUG Connection id "0HN5GFJ59OGTK" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-30 14:48:40.2133 DEBUG Connection id "0HN5GFJ59OGTL" disconnecting.
+2024-07-30 14:48:40.2133 DEBUG Connection id "0HN5GFJ59OGTK" disconnecting.
+2024-07-30 14:48:40.2133 DEBUG Connection id "0HN5GFJ59OGTK" stopped.
+2024-07-30 14:48:40.2133 DEBUG Connection id "0HN5GFJ59OGTL" stopped.
+2024-07-30 14:48:40.3721 DEBUG Connection id "0HN5GFJ59OGTM" accepted.
+2024-07-30 14:48:40.3721 DEBUG Connection id "0HN5GFJ59OGTM" started.
+2024-07-30 14:48:40.5287 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/index.html - - -
+2024-07-30 14:48:40.5437 DEBUG Connection id "0HN5GFJ59OGTN" accepted.
+2024-07-30 14:48:40.5437 DEBUG Connection id "0HN5GFJ59OGTN" started.
+2024-07-30 14:48:40.6484 DEBUG Wildcard detected, all requests with hosts will be allowed.
+2024-07-30 14:48:40.6597 DEBUG No candidates found for the request path '/swagger/index.html'
+2024-07-30 14:48:40.6597 DEBUG Request did not match any endpoints
+2024-07-30 14:48:40.6995 DEBUG Response markup is scheduled to include Browser Link script injection.
+2024-07-30 14:48:40.6995 DEBUG Response markup is scheduled to include browser refresh script injection.
+2024-07-30 14:48:40.7161 DEBUG Response markup was updated to include Browser Link script injection.
+2024-07-30 14:48:40.7161 DEBUG Response markup was updated to include browser refresh script injection.
+2024-07-30 14:48:40.7161 DEBUG Connection id "0HN5GFJ59OGTM" completed keep alive response.
+2024-07-30 14:48:40.7161 INFO Request starting HTTP/1.1 GET http://localhost:5107/_vs/browserLink - - -
+2024-07-30 14:48:40.7161 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/index.html - 200 - text/html;charset=utf-8 201.4859ms
+2024-07-30 14:48:40.7349 INFO Request starting HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - - -
+2024-07-30 14:48:40.7438 DEBUG Connection id "0HN5GFJ59OGTM" completed keep alive response.
+2024-07-30 14:48:40.7438 INFO Request finished HTTP/1.1 GET http://localhost:5107/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript;+charset=utf-8 9.2235ms
+2024-07-30 14:48:40.7632 DEBUG Connection id "0HN5GFJ59OGTN" completed keep alive response.
+2024-07-30 14:48:40.7632 INFO Request finished HTTP/1.1 GET http://localhost:5107/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 39.6143ms
+2024-07-30 14:48:40.8264 INFO Request starting HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - - -
+2024-07-30 14:48:40.8264 DEBUG No candidates found for the request path '/swagger/v1/swagger.json'
+2024-07-30 14:48:40.8264 DEBUG Request did not match any endpoints
+2024-07-30 14:48:40.9810 DEBUG Connection id "0HN5GFJ59OGTN" completed keep alive response.
+2024-07-30 14:48:40.9810 INFO Request finished HTTP/1.1 GET http://localhost:5107/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 154.8923ms
+2024-07-30 14:48:46.9640 DEBUG Connection id "0HN5GFJ59OGTO" received FIN.
+2024-07-30 14:48:46.9640 DEBUG Connection id "0HN5GFJ59OGTO" accepted.
+2024-07-30 14:48:46.9640 DEBUG Connection id "0HN5GFJ59OGTO" started.
+2024-07-30 14:48:46.9640 DEBUG Connection id "0HN5GFJ59OGTO" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-30 14:48:46.9640 DEBUG Connection id "0HN5GFJ59OGTP" accepted.
+2024-07-30 14:48:46.9640 DEBUG Connection id "0HN5GFJ59OGTP" started.
+2024-07-30 14:48:46.9640 DEBUG Connection id "0HN5GFJ59OGTO" disconnecting.
+2024-07-30 14:48:46.9640 DEBUG Connection id "0HN5GFJ59OGTO" stopped.
+2024-07-30 14:48:46.9640 INFO Request starting HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - - -
+2024-07-30 14:48:46.9812 DEBUG 1 candidate(s) found for the request path '/api/Users/GetAllUsers'
+2024-07-30 14:48:46.9812 DEBUG Endpoint 'POS.WebAPI.Controllers.UsersController.GetUsers (POS.WebAPI)' with route pattern 'api/Users/GetAllUsers' is valid for the request path '/api/Users/GetAllUsers'
+2024-07-30 14:48:46.9812 DEBUG Request matched endpoint 'POS.WebAPI.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-30 14:48:46.9959 DEBUG Static files was skipped as the request already matched an endpoint.
+2024-07-30 14:48:47.3318 DEBUG Successfully validated the token.
+2024-07-30 14:48:47.3399 DEBUG AuthenticationScheme: Bearer was successfully authenticated.
+2024-07-30 14:48:47.3399 DEBUG Authorization was successful.
+2024-07-30 14:48:47.3587 INFO Executing endpoint 'POS.WebAPI.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-30 14:48:47.4281 INFO Route matched with {action = "GetUsers", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[POS.Model.User]]] GetUsers() on controller POS.WebAPI.Controllers.UsersController (POS.WebAPI).
+2024-07-30 14:48:47.4338 DEBUG Execution plan of authorization filters (in the following order): None
+2024-07-30 14:48:47.4338 DEBUG Execution plan of resource filters (in the following order): None
+2024-07-30 14:48:47.4338 DEBUG Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-07-30 14:48:47.4338 DEBUG Execution plan of exception filters (in the following order): None
+2024-07-30 14:48:47.4338 DEBUG Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-07-30 14:48:47.4338 DEBUG Executing controller factory for controller POS.WebAPI.Controllers.UsersController (POS.WebAPI)
+2024-07-30 14:48:48.1957 DEBUG An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 14:48:50.5123 DEBUG The [Required] attribute on 'Sale.SaleProducts' was ignored because it is a collection. The [Required] attribute should only be specified on reference navigations pointing to the principal side of the relationship.
+2024-07-30 14:48:50.5123 DEBUG The [Required] attribute on 'Sale.SaleProducts' was ignored because it is a collection. The [Required] attribute should only be specified on reference navigations pointing to the principal side of the relationship.
+2024-07-30 14:48:51.0376 DEBUG The property 'Product.SaleId' was created in shadow state because there are no eligible CLR members with a matching name.
+2024-07-30 14:48:51.2432 DEBUG Entity Framework Core 8.0.7 initialized 'DBContext' using provider 'Microsoft.EntityFrameworkCore.InMemory:8.0.7' with options: StoreName=InMemoryDb 
+2024-07-30 14:48:51.3357 DEBUG 'DBContext' generated a value for the property 'User.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-30 14:48:51.6461 DEBUG Context 'DBContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-30 14:48:51.7453 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-30 14:48:51.8573 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-30 14:48:51.9711 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-30 14:48:52.1687 INFO Saved 1 entities to in-memory store.
+2024-07-30 14:48:52.2753 DEBUG An entity of type 'User' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-30 14:48:52.4242 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-30 14:48:52.4729 DEBUG 'DBContext' generated a value for the property 'User.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-30 14:48:52.4729 DEBUG Context 'DBContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-30 14:48:52.4729 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-30 14:48:52.4729 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-30 14:48:52.4729 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-30 14:48:52.4729 INFO Saved 1 entities to in-memory store.
+2024-07-30 14:48:52.4729 DEBUG An entity of type 'User' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-30 14:48:52.4729 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-30 14:48:52.4920 DEBUG 'DBContext' generated a value for the property 'Category.Id'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-30 14:48:52.5132 DEBUG Context 'DBContext' started tracking 'Category' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-30 14:48:52.5132 DEBUG SaveChanges starting for 'DBContext'.
+2024-07-30 14:48:52.5266 DEBUG DetectChanges starting for 'DBContext'.
+2024-07-30 14:48:52.5266 DEBUG DetectChanges completed for 'DBContext'.
+2024-07-30 14:48:52.5512 INFO Saved 1 entities to in-memory store.
+2024-07-30 14:48:52.5512 DEBUG An entity of type 'Category' tracked by 'DBContext' changed state from 'Added' to 'Unchanged'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-07-30 14:48:52.5512 DEBUG SaveChanges completed for 'DBContext' with 1 entities written to the database.
+2024-07-30 14:48:52.5512 DEBUG Executed controller factory for controller POS.WebAPI.Controllers.UsersController (POS.WebAPI)
+2024-07-30 14:48:53.2704 INFO Executing action method POS.WebAPI.Controllers.UsersController.GetUsers (POS.WebAPI) - Validation state: Valid
+2024-07-30 14:48:53.2812 INFO ----GetAllUsers Started------
+2024-07-30 14:48:53.6399 DEBUG Compiling query expression: 
+'DbSet<User>()'
+2024-07-30 14:48:54.5610 DEBUG Generated query execution expression: 
+'queryContext => new QueryingEnumerable<User>(
+    queryContext, 
+    InMemoryShapedQueryCompilingExpressionVisitor.Table(
+        queryContext: queryContext, 
+        entityType: EntityType: User)
+        .Select(valueBuffer => new ValueBuffer(new object[]
+        { 
+            (object)ExpressionExtensions.ValueBufferTryReadValue<int>(
+                valueBuffer: valueBuffer, 
+                index: 0, 
+                property: Property: User.Id (int) Required PK AfterSave:Throw ValueGenerated.OnAdd), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 1, 
+                property: Property: User.Email (string) Required MaxLength(100)), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 2, 
+                property: Property: User.Name (string) Required MaxLength(100)), 
+            ExpressionExtensions.ValueBufferTryReadValue<string>(
+                valueBuffer: valueBuffer, 
+                index: 3, 
+                property: Property: User.Password (string) Required MaxLength(100)), 
+            (object)ExpressionExtensions.ValueBufferTryReadValue<UserRole>(
+                valueBuffer: valueBuffer, 
+                index: 4, 
+                property: Property: User.UserRole (UserRole) Required) 
+        })), 
+    Func<QueryContext, ValueBuffer, User>, 
+    POS.Data.DBContext, 
+    False, 
+    True
+)'
+2024-07-30 14:48:54.8294 INFO ----GetAllUsers End------
+2024-07-30 14:48:54.9290 INFO Executed action method POS.WebAPI.Controllers.UsersController.GetUsers (POS.WebAPI), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1644.9904ms.
+2024-07-30 14:48:55.0222 DEBUG List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-07-30 14:48:55.0390 DEBUG No information found on request to perform content negotiation.
+2024-07-30 14:48:55.0390 DEBUG Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-07-30 14:48:55.0390 DEBUG Attempting to select the first formatter in the output formatters list which can write the result.
+2024-07-30 14:48:55.0390 DEBUG Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-07-30 14:48:55.0390 INFO Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[POS.Model.User, POS.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[POS.DTO.UserDTO, POS.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-30 14:48:55.4054 INFO Executed action POS.WebAPI.Controllers.UsersController.GetUsers (POS.WebAPI) in 7954.9357ms
+2024-07-30 14:48:55.4054 INFO Executed endpoint 'POS.WebAPI.Controllers.UsersController.GetUsers (POS.WebAPI)'
+2024-07-30 14:48:55.4054 DEBUG Connection id "0HN5GFJ59OGTP" completed keep alive response.
+2024-07-30 14:48:55.4500 DEBUG 'DBContext' disposed.
+2024-07-30 14:48:55.5581 INFO Request finished HTTP/1.1 GET http://localhost:5107/api/Users/GetAllUsers - 200 - application/json;+charset=utf-8 8587.4173ms
