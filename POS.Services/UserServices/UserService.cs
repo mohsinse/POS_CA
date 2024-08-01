@@ -29,6 +29,11 @@ namespace POS.Services.UserServices
             return _userRepository.AuthenticateUser(email, password);
         }
 
+        public IEnumerable<User> GetAllUsers()
+        {
+            return _userRepository.GetAllUsers();
+        }
+
         public async Task SetUserRole(User user, UserRole role)
         {
             await _userRepository.SetUserRole(user, role);

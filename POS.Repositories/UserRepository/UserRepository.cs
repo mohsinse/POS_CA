@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace POS.Repositories.UserRepository
 {
-    public class UserRepository : IUserRepository
+    public class UserRepository 
     {
         private readonly DBContext _context;
 

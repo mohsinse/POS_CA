@@ -10,7 +10,7 @@ namespace POS.Model
     public class Product
     {
         [Key]
-        public int Id { get; set; }
+        public string id { get; set; }
 
         [Required(ErrorMessage = "Name is required.")]
         [StringLength(100, ErrorMessage = "Name can't be longer than 100 characters.")]

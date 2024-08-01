@@ -16,28 +16,28 @@ namespace POS.WebAPI.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
-        private readonly DBContext _dataContext;
+       
         private readonly IUserService _userService;
         private readonly IMapper _mapper;
 
         private readonly ILogger<UsersController> _logger;
 
-        public UsersController(IUserService userService, DBContext context, ILogger<UsersController> logger, IMapper mapper)
+        public UsersController(IUserService userService,ILogger<UsersController> logger, IMapper mapper)
         {
-            _dataContext = context;
+            
             _userService = userService;
             _mapper = mapper;
 
 
-            var admin = new User("Admin", "admin@gmail.com", "admin", UserRole.Admin);
-            _userService.RegisterUser(admin);
+            //var admin = new User("Admin", "admin@gmail.com", "admin", UserRole.Admin);
+            //_userService.RegisterUser(admin);
 
-            var cashier = new User("Cashier", "cashier@gmail.com", "cashier", UserRole.Cashier);
-            _userService.RegisterUser(cashier);
+            //var cashier = new User("Cashier", "cashier@gmail.com", "cashier", UserRole.Cashier);
+            //_userService.RegisterUser(cashier);
 
-            var fashionCategory = new Category { Name = "Fashion" };
-            _dataContext.Categories.Add(fashionCategory);
-            _dataContext.SaveChanges();
+            //var fashionCategory = new Category { Name = "Fashion" };
+            //_dataContext.Categories.Add(fashionCategory);
+            //_dataContext.SaveChanges();
             _logger = logger;
         }
 
@@ -57,50 +57,51 @@ namespace POS.WebAPI.Controllers
         public async Task<ActionResult<IEnumerable<User>>> GetUsers()
         {
             _logger.LogInformation("----GetAllUsers Started------");
-            if (_dataContext.Users == null)
+
+            if (_userService.GetAllUsers() == null)
             {
                 return NotFound();
             }
 
-            
-            var users = await _dataContext.Users.ToListAsync();
+
+            var users = _userService.GetAllUsers();
             _logger.LogInformation("----GetAllUsers End------");
             return Ok(users.Select(user => _mapper.Map<UserDTO>(user)));
             //return users;
         }
 
 
-        [HttpPut("SetUserRole")]
-        public async Task<IActionResult> UpdateUserRole(string userEmail, string role)
-        {
-            var user = _dataContext.Users.FirstOrDefault(u => u.Email == userEmail);
-            if (user == null)
-            {
-                return NotFound();
-            }
-            if (role != null)
-            {
-                if (role == "Admin" ||  role == "admin")
-                {
-                    user.UserRole = UserRole.Admin;
-                }
-                else if (role == "Cashier" || role == "cashier")
-                {
-                    user.UserRole = UserRole.Cashier;
-                }
-            }
+        //[HttpPut("SetUserRole")]
+        //public async Task<IActionResult> UpdateUserRole(string userEmail, string role)
+        //{
+        //    var user = _dataContext.Users.FirstOrDefault(u => u.Email == userEmail);
+        //    if (user == null)
+        //    {
+        //        return NotFound();
+        //    }
+        //    if (role != null)
+        //    {
+        //        if (role == "Admin" ||  role == "admin")
+        //        {
+        //            user.UserRole = UserRole.Admin;
+        //        }
+        //        else if (role == "Cashier" || role == "cashier")
+        //        {
+        //            user.UserRole = UserRole.Cashier;
+        //        }
+        //    }
 
             
-            await _dataContext.SaveChangesAsync();
+        //    await _dataContext.SaveChangesAsync();
 
-            return Ok(new
-            {
-                user.Id,
-                user.Name,
-                user.Email,
-                user.UserRole
-            });
-        }
+        //    return Ok(new
+        //    {
+        //        user.Id,
+        //        user.Name,
+        //        user.Email,
+        //        user.UserRole
+        //    });
+        //}
 
 
 

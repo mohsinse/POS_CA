@@ -58,7 +58,7 @@ namespace POS_System_API.Controllers
                 return BadRequest("Empty Product");
             }
 
-            var user = _userService.AuthenticateUser("admin@gmail.com", "admin");
+            var user = _userService.AuthenticateUser("user@example.com", "string");
 
             bool result = await _productManagementServices.AddProduct(product, user);
             if (result)
@@ -72,17 +72,17 @@ namespace POS_System_API.Controllers
         }
 
         [HttpGet("getProducts")]
-        public ActionResult<IEnumerable<Product>> GetProducts()
+        public Task<IEnumerable<Product>> GetProducts()
         {
             var products = _productManagementServices.GetProducts();
-            return Ok(products);
+            return products;
         }
 
 
         [HttpDelete("deleteProduct/{productName}")]
         public async Task<IActionResult> DeleteProduct(string productName)
         {
-            var user = _userService.AuthenticateUser("admin@gmail.com", "admin");
+            var user = _userService.AuthenticateUser("user@example.com", "string");
             await _productManagementServices.RemoveProduct(productName, user);
             return Ok("Product deleted successfully.");
         }
@@ -95,7 +95,7 @@ namespace POS_System_API.Controllers
                 return BadRequest("Empty Product");
             }
 
-            var user = _userService.AuthenticateUser("admin@gmail.com", "admin");
+            var user = _userService.AuthenticateUser("user@example.com", "string");
 
             bool result = await _productManagementServices.UpdateProduct(updatedProduct, user);
             if (result)

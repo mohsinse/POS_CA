@@ -30,7 +30,7 @@ namespace POS.Services.ProductServices
 
         }
 
-        public ActionResult<IEnumerable<Product>> GetProducts()
+        public Task<IEnumerable<Product>> GetProducts()
         {
             var products = _productRepository.GetProducts();
             return products;

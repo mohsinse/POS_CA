@@ -17,6 +17,6 @@ namespace POS.Repositories.ProductRepository
 
         Task RemoveProduct(string productName, User user);
 
-        ActionResult<IEnumerable<Product>> GetProducts();
+        Task<IEnumerable<Product>> GetProducts();
     }
 }

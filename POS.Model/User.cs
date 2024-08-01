@@ -3,15 +3,19 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 using POS.Model.Enum;
 
 namespace POS.Model
 {
     public class User
     {
+        
         [Key]
-        public int Id { get; set; }
+        [JsonProperty("id")]
+        public string id { get; set; }
 
         [Required(ErrorMessage = "Name is required.")]
         [StringLength(100, ErrorMessage = "Name can't be longer than 100 characters.")]

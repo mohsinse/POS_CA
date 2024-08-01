@@ -13,5 +13,6 @@ namespace POS.Repositories.UserRepository
         Task RegisterUser(User user);
         User AuthenticateUser(string email, string password);
         Task SetUserRole(User user, UserRole role);
+        IEnumerable<User> GetAllUsers();
     }
 }

@@ -17,6 +17,6 @@ namespace POS.Services.ProductServices
 
         Task RemoveProduct(string productName, User user);
 
-        ActionResult<IEnumerable<Product>> GetProducts();
+        Task<IEnumerable<Product>> GetProducts();
     }
 }

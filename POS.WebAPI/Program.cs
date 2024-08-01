@@ -16,6 +16,7 @@ using POS.Repositories.SaleRepository;
 using POS.Services.SaleServices;
 using POS.WebAPI.Middleware;
 using POS.AutoMapper;
+using Microsoft.Azure.Cosmos;
 
 
 var logger = LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
@@ -60,22 +61,34 @@ try
 
     builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
-    builder.Services.AddDbContext<DBContext>(options =>
-        options.UseInMemoryDatabase("InMemoryDb"));
+    //builder.Services.AddDbContext<DBContext>(options =>
+    //    options.UseInMemoryDatabase("InMemoryDb"));
 
 
     
-    builder.Services.AddScoped<IUserService,UserService>();
-    builder.Services.AddScoped<IUserRepository, UserRepository>();
+    
+    // builder.Services.AddScoped<IUserRepository, UserRepository>();
 
-    builder.Services.AddScoped<IProductRepository, ProductRepository>();
+    builder.Services.AddSingleton<CosmosClient>(serviceProvider =>
+    {
+        var configuration = serviceProvider.GetRequiredService<IConfiguration>();
+        var endpointUrl = configuration["CosmosDb:EndpointUrl"];
+        var primaryKey = configuration["CosmosDb:PrimaryKey"];
+        return new CosmosClient(endpointUrl, primaryKey);
+    });
+
+    builder.Services.AddScoped<IUserRepository, UserCosmosRepository>();
+    builder.Services.AddScoped<IUserService, UserService>();
+
+    //builder.Services.AddScoped<IProductRepository, ProductRepository>();
+    builder.Services.AddScoped<IProductRepository, ProductCosmosRepository>();
     builder.Services.AddScoped<IProductManagementService, ProductManagementService>();
 
-    builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-    builder.Services.AddScoped<ICategoryService,CategoryService>();
+    //builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+    //builder.Services.AddScoped<ICategoryService,CategoryService>();
 
-    builder.Services.AddScoped<ISaleRepository, SaleRepository>();
-    builder.Services.AddScoped<ISaleService, SaleService>();
+    //builder.Services.AddScoped<ISaleRepository, SaleRepository>();
+    //builder.Services.AddScoped<ISaleService, SaleService>();
 
     var app = builder.Build();
 

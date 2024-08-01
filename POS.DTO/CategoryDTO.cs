@@ -13,7 +13,7 @@ namespace POS.DTO
 
         [Required(ErrorMessage = "Name is required.")]
         [StringLength(100, ErrorMessage = "Name can't be longer than 100 characters.")]
-        public string Name { get; set; }
+        public string Name { get; set; } = string.Empty;
 
         // Parameterless constructor for model binding
         public CategoryDTO() { }

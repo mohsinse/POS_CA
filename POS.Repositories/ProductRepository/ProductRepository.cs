@@ -5,7 +5,7 @@ using POS.Model.Enum;
 
 namespace POS.Repositories.ProductRepository
 {
-    public class ProductRepository : IProductRepository
+    public class ProductRepository
     {
         private readonly DBContext? _dataContext;
 
