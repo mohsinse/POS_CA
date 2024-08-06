@@ -6,6 +6,7 @@ using POS.Services.UserServices;
 using POS.Data;
 using POS.Model;
 using POS.Model.Enum;
+using Microsoft.Identity.Web.Resource;
 
 namespace POS_System_API.Controllers
 {
@@ -71,6 +72,7 @@ namespace POS_System_API.Controllers
             }
         }
 
+        [RequiredScope("Products.Read")]
         [HttpGet("getProducts")]
         public Task<IEnumerable<Product>> GetProducts()
         {

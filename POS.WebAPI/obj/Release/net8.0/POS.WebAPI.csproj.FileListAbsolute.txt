@@ -92,3 +92,17 @@ D:\Visual Studio Projects\POS AL\POS.WebAPI\obj\Release\net8.0\refint\POS.WebAPI
 D:\Visual Studio Projects\POS AL\POS.WebAPI\obj\Release\net8.0\POS.WebAPI.pdb
 D:\Visual Studio Projects\POS AL\POS.WebAPI\obj\Release\net8.0\POS.WebAPI.genruntimeconfig.cache
 D:\Visual Studio Projects\POS AL\POS.WebAPI\obj\Release\net8.0\ref\POS.WebAPI.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Azure.Identity.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Azure.Security.KeyVault.Secrets.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Microsoft.Azure.KeyVault.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Microsoft.Azure.KeyVault.WebKey.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Microsoft.Identity.Client.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Microsoft.Rest.ClientRuntime.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Visual Studio Projects\POS AL\POS.WebAPI\bin\Release\net8.0\System.ClientModel.dll
